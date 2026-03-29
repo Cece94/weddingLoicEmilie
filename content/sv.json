@@ -1,0 +1,237 @@
+{
+  "common": {
+    "siteTitle": "Loic & Emilie",
+    "menu": "Meny",
+    "language": "Sprak",
+    "mobileMenuOpen": "Oppna menyn",
+    "mobileMenuClose": "Stang menyn",
+    "direction": "Vagbeskrivning",
+    "rsvp": "RSVP",
+    "nav": {
+      "ourWedding": "OUR WEDDING",
+      "accommodationFood": "ÖVERNATTNING OCH MAT",
+      "registration": "REGISTRATION",
+      "travel": "RESA",
+      "program": "PROGRAM",
+      "faq": "FAQ SV"
+    }
+  },
+  "footer": {
+    "message": "En varm och glad fest i Sverige.",
+    "signature": "Med karlek, Emilie & Loic"
+  },
+  "ourWeddingPage": {
+    "title": "Vart Brollop",
+    "subtitle": "Vi ar glada att fira denna stund med er och samla all praktisk information pa ett stalle.",
+    "heroEyebrow": "Var historia",
+    "heroTitle": "Save The Date",
+    "heroInvitation": "Eftersom ni har delat vara liv och stottat var karlek vill vi bjuda in er att bevittna vart \"lyckliga i alla vara dagar\". Den 12 september kommer vi att sta framfor de personer vi alskar mest och saga \"ja\" till varandra pa Kaggeholms Slott. Er narvaro ar den finaste gava vi kan fa, och vi langtar efter att dela detta vackra nya kapitel med er.",
+    "storyCards": [
+      {
+        "date": "September the 12th",
+        "title": "Dagen Vi Mottes",
+        "marker": "SEP"
+      },
+      {
+        "date": "September the 12th",
+        "title": "Historien Borjade",
+        "marker": "12"
+      },
+      {
+        "date": "September the 12th",
+        "title": "Nasta Kapitel",
+        "marker": "26"
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Save The Date",
+        "title": "En Fest Mellan Tva Kulturer",
+        "body": [
+          "Vart brollop samlar familj och vanner fran Frankrike, Sverige och fler lander.",
+          "Den har sidan ar skapad for att gora er resa enklare och samla alla uppdateringar.",
+          "TODO: Bekrafta den slutliga inledningstexten mot originalkallan."
+        ]
+      },
+      {
+        "eyebrow": "Plats",
+        "title": "Var Vi Kommer Att Ses",
+        "body": [
+          "Firandet sker i Sverige med flera delar under en hel brollopshelg.",
+          "Exakta platsnamn och kartor kommer i separata avsnitt.",
+          "Las rese- och boendeinformationen innan ni bokar."
+        ]
+      },
+      {
+        "eyebrow": "Kansla",
+        "title": "Det Viktigaste For Oss",
+        "body": [
+          "Vi vill att helgen ska kannas varm, enkel och personlig.",
+          "Er narvaro ar den finaste presenten och vi ar tacksamma att dela detta kapitel med er."
+        ]
+      }
+    ]
+  },
+  "accommodationFoodPage": {
+    "title": "Overnattning Och Mat",
+    "subtitle": "Praktisk vagledning sa att alla kan bo bekvamt och njuta av helgen.",
+    "sections": [
+      {
+        "eyebrow": "Boende",
+        "title": "Rekommenderade Boendealternativ",
+        "body": [
+          "Vi har samlat boendealternativ i olika prisklasser och avstand.",
+          "Tidiga bokningar rekommenderas starkt under sommaren.",
+          "TODO: Ersatt denna tillfalliga lista med slutliga adresser fran kallsidan."
+        ]
+      },
+      {
+        "eyebrow": "Mat",
+        "title": "Maltider Under Brollopshelgen",
+        "body": [
+          "Huvudmaltiderna ingar i brollopsprogrammet.",
+          "Ange allergier och kostbehov nar RSVP oppnar.",
+          "Vegetariska och alkoholfria alternativ kommer att finnas."
+        ]
+      },
+      {
+        "eyebrow": "Transport",
+        "title": "Mellan Hotell Och Festplats",
+        "body": [
+          "Transportinformation laggs till for varje viktig tidpunkt i programmet.",
+          "Vid behov delar vi shuttle-tider i en senare uppdatering."
+        ]
+      }
+    ]
+  },
+  "registrationPage": {
+    "title": "Anmalan",
+    "subtitle": "En tillfallig RSVP-fas ar aktiv medan den externa registreringen forbereds.",
+    "sections": [
+      {
+        "eyebrow": "Status",
+        "title": "RSVP Oppnar Snart",
+        "body": [
+          "Det externa registreringsformularret ar medvetet inte kopplat i denna fas.",
+          "Kontrollera den har sidan, RSVP-knappen och vara direktmeddelanden regelbundet."
+        ]
+      },
+      {
+        "eyebrow": "Information",
+        "title": "Vad Vi Fragar Efter Nar RSVP Oppnar",
+        "body": [
+          "Narvarobekraftelse for varje gast.",
+          "Matallergier och kostbehov.",
+          "Resebegransningar samt ankomst- och avresetider."
+        ]
+      },
+      {
+        "eyebrow": "Paminnelse",
+        "title": "Nar Ska Du Svara",
+        "body": [
+          "Vi meddelar snart oppningsdatum och sista svarsdatum for RSVP.",
+          "TODO: Lagga till slutlig deadline-text nar kallsidan ar bekraftad."
+        ]
+      }
+    ]
+  },
+  "travelPage": {
+    "title": "Resa",
+    "subtitle": "Hur ni tar er till brollopsomradet och ror er smidigt under helgen.",
+    "sections": [
+      {
+        "eyebrow": "Med Flyg",
+        "title": "Narmaste Flygplatsvagar",
+        "body": [
+          "Internationella gaster kan planera till narmaste storre flygplats i Sverige.",
+          "Tag- och bussforbindelser finns vidare till firandeomradet."
+        ]
+      },
+      {
+        "eyebrow": "Med Tag",
+        "title": "Tagforbindelser",
+        "body": [
+          "Svenska tagnatet erbjuder stabila alternativ fran storre stader.",
+          "Boka tidigt nar det ar mojligt for battre priser."
+        ]
+      },
+      {
+        "eyebrow": "Lokalt",
+        "title": "Sista Strackan",
+        "body": [
+          "Taxi och lokala transferalternativ finns vid stationer och hotell.",
+          "TODO: Fyll i slutliga stationsnamn och transferinstruktioner fran kallsidan."
+        ]
+      }
+    ]
+  },
+  "programPage": {
+    "title": "Program",
+    "subtitle": "En elegant och avslappnad tidslinje for hela helgen.",
+    "sections": [
+      {
+        "eyebrow": "Dag 1",
+        "title": "Valkomststund",
+        "body": [
+          "Gastankomster och informella valkomstmoment.",
+          "Tid att landa, ses igen och forbereda sig for huvudfirandet."
+        ]
+      },
+      {
+        "eyebrow": "Dag 2",
+        "title": "Ceremoni Och Fest",
+        "body": [
+          "Ceremoni, cocktail, middag och kvallsfirande i foljd.",
+          "Exakta tider och kladkod bekraftas i en slutlig uppdatering.",
+          "TODO: Synka den detaljerade tidsplanen med originaltexten fore lansering."
+        ]
+      },
+      {
+        "eyebrow": "Dag 3",
+        "title": "Avskedsbrunch",
+        "body": [
+          "En lugn morgon for att saga hej da och dela sista stunden tillsammans.",
+          "Avresetider ar flexibla beroende pa er resa."
+        ]
+      }
+    ]
+  },
+  "faqPage": {
+    "title": "Vanliga Fragor",
+    "subtitle": "Viktiga svar samlade pa ett stalle innan er resa.",
+    "sections": [
+      {
+        "eyebrow": "FAQ",
+        "title": "Kan Jag Ta Med En Plus-One?",
+        "body": [
+          "Folj informationen som star i er personliga inbjudan.",
+          "Om ni ar osakra, kontakta oss sa klargor vi snabbt."
+        ]
+      },
+      {
+        "eyebrow": "FAQ",
+        "title": "Vad Ar Kladkoden?",
+        "body": [
+          "Elegant och bekvam kladsel rekommenderas.",
+          "Undvik mycket casual stil och ta hansyn till vader."
+        ]
+      },
+      {
+        "eyebrow": "FAQ",
+        "title": "Kan Barn Delta?",
+        "body": [
+          "Familjeupplagget kan variera beroende pa programpunkt.",
+          "TODO: Bekrafta slutlig barnpolicy med kallsida och inbjudningar."
+        ]
+      }
+    ]
+  },
+  "rsvpPage": {
+    "title": "RSVP",
+    "subtitle": "Det fullstandiga registreringsformularet ar inte anslutet annu.",
+    "cardTitle": "RSVP Oppnar Snart",
+    "line1": "Tack for ert talamod medan vi slutfors den externa registreringsprocessen.",
+    "line2": "Denna sida ar tills vidare en platshallare och RSVP-knappen ar medvetet synlig.",
+    "line3": "Ni far en uppdatering sa fort registreringen oppnar."
+  }
+}

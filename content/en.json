@@ -1,0 +1,237 @@
+{
+  "common": {
+    "siteTitle": "Loic & Emilie",
+    "menu": "Menu",
+    "language": "Language",
+    "mobileMenuOpen": "Open menu",
+    "mobileMenuClose": "Close menu",
+    "direction": "Direction",
+    "rsvp": "RSVP",
+    "nav": {
+      "ourWedding": "OUR WEDDING",
+      "accommodationFood": "ACCOMMODATION & FOOD",
+      "registration": "REGISTRATION",
+      "travel": "TRAVEL",
+      "program": "PROGRAM",
+      "faq": "FAQ"
+    }
+  },
+  "footer": {
+    "message": "A warm and joyful celebration in Sweden.",
+    "signature": "With love, Emilie & Loic"
+  },
+  "ourWeddingPage": {
+    "title": "Our Wedding",
+    "subtitle": "We are happy to celebrate this moment with you and share all practical details in one place.",
+    "heroEyebrow": "Our story",
+    "heroTitle": "Save The Date",
+    "heroInvitation": "Because you have shared in our lives and supported our love, we invite you to witness our 'happily ever after.' On September the 12th, we will stand before our favorite people to say 'I do' at Kaggeholms Slott. Your presence is the greatest gift we could receive, and we can’t wait to share this beautiful new chapter with you.",
+    "storyCards": [
+      {
+        "date": "September the 12th",
+        "title": "The Day We Met",
+        "marker": "SEP"
+      },
+      {
+        "date": "September the 12th",
+        "title": "Stories Opening",
+        "marker": "12"
+      },
+      {
+        "date": "September the 12th",
+        "title": "The Next Journey",
+        "marker": "26"
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Save The Date",
+        "title": "A Celebration Built On Two Cultures",
+        "body": [
+          "Our wedding joins family and friends from France, Sweden and beyond.",
+          "We designed this website to make your trip easier and to keep all updates clear.",
+          "TODO: Validate final opening wording against the original source copy."
+        ]
+      },
+      {
+        "eyebrow": "Location",
+        "title": "Where We Will Meet",
+        "body": [
+          "The celebration takes place in Sweden with events spread over one full wedding weekend.",
+          "Exact venue names and maps are shared in dedicated sections below.",
+          "Please review travel and accommodation information before booking."
+        ]
+      },
+      {
+        "eyebrow": "Spirit",
+        "title": "What Matters Most To Us",
+        "body": [
+          "We want to keep this weekend warm, simple and deeply human.",
+          "Your presence is the greatest gift and we are grateful to share this chapter with you."
+        ]
+      }
+    ]
+  },
+  "accommodationFoodPage": {
+    "title": "Accommodation & Food",
+    "subtitle": "Practical guidance to help everyone stay comfortably and enjoy the weekend.",
+    "sections": [
+      {
+        "eyebrow": "Stay",
+        "title": "Recommended Accommodation Options",
+        "body": [
+          "We prepared accommodation options at different price ranges and distances.",
+          "Early reservation is highly recommended during summer season.",
+          "TODO: Replace this placeholder list with the final approved addresses from source."
+        ]
+      },
+      {
+        "eyebrow": "Meals",
+        "title": "Food During The Wedding Weekend",
+        "body": [
+          "Main wedding meals are organized as part of the event schedule.",
+          "Please share allergies and dietary constraints in the RSVP when it opens.",
+          "Vegetarian and non-alcoholic options will be available."
+        ]
+      },
+      {
+        "eyebrow": "Transport",
+        "title": "Getting Between Hotel And Venue",
+        "body": [
+          "Transport guidance will be added for each key time slot of the program.",
+          "If needed, we will provide shuttle timing details in a later update."
+        ]
+      }
+    ]
+  },
+  "registrationPage": {
+    "title": "Registration",
+    "subtitle": "A temporary RSVP phase is active while final form integration is still pending.",
+    "sections": [
+      {
+        "eyebrow": "Status",
+        "title": "RSVP Opening Soon",
+        "body": [
+          "The external registration form is intentionally not connected in this phase.",
+          "Please keep checking this page, the RSVP call-to-action and our direct messages."
+        ]
+      },
+      {
+        "eyebrow": "What We Need",
+        "title": "Information Requested At RSVP Launch",
+        "body": [
+          "Attendance confirmation for each guest.",
+          "Dietary restrictions and allergy details.",
+          "Travel constraints and arrival/departure windows."
+        ]
+      },
+      {
+        "eyebrow": "Reminder",
+        "title": "When To Reply",
+        "body": [
+          "We will communicate the RSVP opening date and response deadline soon.",
+          "TODO: Add final RSVP deadline text from source once confirmed."
+        ]
+      }
+    ]
+  },
+  "travelPage": {
+    "title": "Travel",
+    "subtitle": "How to reach the wedding area and move smoothly during the event.",
+    "sections": [
+      {
+        "eyebrow": "By Air",
+        "title": "Closest Airport Routes",
+        "body": [
+          "International guests can plan flights to the closest major airport in Sweden.",
+          "Train and bus links are available to continue toward the celebration area."
+        ]
+      },
+      {
+        "eyebrow": "By Train",
+        "title": "Rail Connections",
+        "body": [
+          "Swedish rail networks provide reliable options from larger cities.",
+          "Book early when possible to secure better pricing."
+        ]
+      },
+      {
+        "eyebrow": "Local Moves",
+        "title": "Last-Mile Transportation",
+        "body": [
+          "Taxi and local transfer options are available near stations and hotels.",
+          "TODO: Insert final station names and transfer instructions from source content."
+        ]
+      }
+    ]
+  },
+  "programPage": {
+    "title": "Program",
+    "subtitle": "An elegant and relaxed weekend timeline.",
+    "sections": [
+      {
+        "eyebrow": "Day 1",
+        "title": "Welcome Moment",
+        "body": [
+          "Guest arrivals and informal welcome moments.",
+          "Time to settle in, reconnect and prepare for the main celebration."
+        ]
+      },
+      {
+        "eyebrow": "Day 2",
+        "title": "Wedding Ceremony And Celebration",
+        "body": [
+          "Ceremony, cocktail, dinner and evening celebration in sequence.",
+          "Precise times and dress guidance will be confirmed in a final update.",
+          "TODO: Align the detailed schedule with source text before release."
+        ]
+      },
+      {
+        "eyebrow": "Day 3",
+        "title": "Farewell Brunch",
+        "body": [
+          "A calm morning to say goodbye and share final moments together.",
+          "Departure windows are flexible depending on your travel plan."
+        ]
+      }
+    ]
+  },
+  "faqPage": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Important answers in one place before your trip.",
+    "sections": [
+      {
+        "eyebrow": "FAQ",
+        "title": "Can I Bring A Plus-One?",
+        "body": [
+          "Please follow the invitation details you received directly.",
+          "If unsure, contact us and we will clarify quickly."
+        ]
+      },
+      {
+        "eyebrow": "FAQ",
+        "title": "What Is The Dress Code?",
+        "body": [
+          "Elegant and comfortable attire is recommended.",
+          "Avoid very casual outfits and keep weather conditions in mind."
+        ]
+      },
+      {
+        "eyebrow": "FAQ",
+        "title": "Can Children Attend?",
+        "body": [
+          "Family logistics may vary by event slot.",
+          "TODO: Confirm final children attendance policy from source and invitation set."
+        ]
+      }
+    ]
+  },
+  "rsvpPage": {
+    "title": "RSVP",
+    "subtitle": "The full registration form is not connected yet.",
+    "cardTitle": "RSVP Opening Soon",
+    "line1": "Thank you for your patience while we finalize the external registration workflow.",
+    "line2": "For now, this page remains a placeholder and the RSVP button stays visible by design.",
+    "line3": "You will receive an update as soon as registration opens."
+  }
+}

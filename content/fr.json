@@ -1,0 +1,237 @@
+{
+  "common": {
+    "siteTitle": "Loic & Emilie",
+    "menu": "Menu",
+    "language": "Langue",
+    "mobileMenuOpen": "Ouvrir le menu",
+    "mobileMenuClose": "Fermer le menu",
+    "direction": "Direction",
+    "rsvp": "RSVP",
+    "nav": {
+      "ourWedding": "OUR WEDDING",
+      "accommodationFood": "HÉBERGEMENT ET REPAS",
+      "registration": "REGISTRATION",
+      "travel": "VOYAGE",
+      "program": "PROGRAM",
+      "faq": "FAQ FR"
+    }
+  },
+  "footer": {
+    "message": "Une célébration chaleureuse et joyeuse en Suède.",
+    "signature": "Avec amour, Emilie & Loic"
+  },
+  "ourWeddingPage": {
+    "title": "Notre Mariage",
+    "subtitle": "Nous sommes heureux de partager ce moment avec vous et de réunir toutes les informations pratiques au même endroit.",
+    "heroEyebrow": "Notre histoire",
+    "heroTitle": "Save The Date",
+    "heroInvitation": "Parce que vous partagez nos vies et soutenez notre amour, nous vous invitons a etre les temoins de notre \"ils vecurent heureux\". Le 12 septembre, nous nous tiendrons devant les personnes que nous aimons le plus pour nous dire \"oui\" a Kaggeholms Slott. Votre presence est le plus beau cadeau que nous puissions recevoir, et nous avons hate de partager ce nouveau chapitre avec vous.",
+    "storyCards": [
+      {
+        "date": "September the 12th",
+        "title": "Le Jour De Notre Rencontre",
+        "marker": "SEP"
+      },
+      {
+        "date": "September the 12th",
+        "title": "Le Debut De L'Histoire",
+        "marker": "12"
+      },
+      {
+        "date": "September the 12th",
+        "title": "Le Prochain Voyage",
+        "marker": "26"
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Save The Date",
+        "title": "Une Célébration Entre Deux Cultures",
+        "body": [
+          "Notre mariage réunit famille et amis de France, de Suède et d'ailleurs.",
+          "Ce site a été conçu pour faciliter votre voyage et centraliser toutes les mises à jour.",
+          "TODO: Valider la formulation d'ouverture finale avec la copie source d'origine."
+        ]
+      },
+      {
+        "eyebrow": "Lieu",
+        "title": "Où Nous Allons Nous Retrouver",
+        "body": [
+          "La célébration se déroule en Suède, avec des temps forts répartis sur un week-end complet.",
+          "Les noms exacts des lieux et les plans seront détaillés dans les sections dédiées.",
+          "Merci de consulter les informations voyage et hébergement avant de réserver."
+        ]
+      },
+      {
+        "eyebrow": "Esprit",
+        "title": "Ce Qui Compte Le Plus Pour Nous",
+        "body": [
+          "Nous souhaitons un week-end chaleureux, simple et sincère.",
+          "Votre présence est notre plus beau cadeau, et nous sommes touchés de vivre ce chapitre avec vous."
+        ]
+      }
+    ]
+  },
+  "accommodationFoodPage": {
+    "title": "Hébergement Et Repas",
+    "subtitle": "Un guide pratique pour aider chacun à séjourner confortablement et profiter du week-end.",
+    "sections": [
+      {
+        "eyebrow": "Séjour",
+        "title": "Options D'Hébergement Recommandées",
+        "body": [
+          "Nous avons préparé plusieurs options d'hébergement selon différents budgets et distances.",
+          "Une réservation anticipée est fortement conseillée en période estivale.",
+          "TODO: Remplacer cette liste provisoire par les adresses finales validées depuis la source."
+        ]
+      },
+      {
+        "eyebrow": "Repas",
+        "title": "Alimentation Pendant Le Week-End",
+        "body": [
+          "Les repas principaux du mariage sont prévus dans le déroulé de l'événement.",
+          "Merci de transmettre vos allergies et contraintes alimentaires dès l'ouverture du RSVP.",
+          "Des options végétariennes et sans alcool seront disponibles."
+        ]
+      },
+      {
+        "eyebrow": "Transports",
+        "title": "Trajets Entre Hôtel Et Lieu",
+        "body": [
+          "Les indications de transport seront ajoutées pour chaque horaire clé du programme.",
+          "Si nécessaire, nous communiquerons un détail des navettes dans une prochaine mise à jour."
+        ]
+      }
+    ]
+  },
+  "registrationPage": {
+    "title": "Inscription",
+    "subtitle": "Une phase RSVP temporaire est en place pendant la finalisation du formulaire externe.",
+    "sections": [
+      {
+        "eyebrow": "Statut",
+        "title": "RSVP Bientôt Disponible",
+        "body": [
+          "Le formulaire externe d'inscription n'est volontairement pas connecté dans cette phase.",
+          "Merci de consulter régulièrement cette page, le bouton RSVP et nos messages directs."
+        ]
+      },
+      {
+        "eyebrow": "Informations",
+        "title": "Ce Qui Sera Demandé À L'Ouverture",
+        "body": [
+          "Confirmation de présence pour chaque invité.",
+          "Contraintes alimentaires et allergies.",
+          "Contraintes de voyage et fenêtres d'arrivée/départ."
+        ]
+      },
+      {
+        "eyebrow": "Rappel",
+        "title": "Quand Répondre",
+        "body": [
+          "Nous partagerons bientôt la date d'ouverture du RSVP et la date limite de réponse.",
+          "TODO: Ajouter le texte final de date limite dès confirmation de la source."
+        ]
+      }
+    ]
+  },
+  "travelPage": {
+    "title": "Voyage",
+    "subtitle": "Comment rejoindre la zone du mariage et se déplacer facilement pendant l'événement.",
+    "sections": [
+      {
+        "eyebrow": "En Avion",
+        "title": "Accès Depuis Les Aéroports",
+        "body": [
+          "Les invités internationaux peuvent viser l'aéroport principal le plus proche en Suède.",
+          "Des liaisons train et bus permettent ensuite de rejoindre la zone de célébration."
+        ]
+      },
+      {
+        "eyebrow": "En Train",
+        "title": "Connexions Ferroviaires",
+        "body": [
+          "Le réseau suédois offre des trajets fiables depuis les grandes villes.",
+          "Réserver tôt est recommandé pour obtenir de meilleurs tarifs."
+        ]
+      },
+      {
+        "eyebrow": "Sur Place",
+        "title": "Derniers Kilomètres",
+        "body": [
+          "Taxi et options de transfert local sont disponibles près des gares et hôtels.",
+          "TODO: Insérer les noms finaux de gares et consignes de transfert depuis la source."
+        ]
+      }
+    ]
+  },
+  "programPage": {
+    "title": "Programme",
+    "subtitle": "Un déroulé élégant et détendu sur tout le week-end.",
+    "sections": [
+      {
+        "eyebrow": "Jour 1",
+        "title": "Accueil Des Invités",
+        "body": [
+          "Arrivées et moments d'accueil informels.",
+          "Le temps de s'installer, se retrouver et se préparer pour la célébration principale."
+        ]
+      },
+      {
+        "eyebrow": "Jour 2",
+        "title": "Cérémonie Et Fête",
+        "body": [
+          "Cérémonie, cocktail, dîner puis soirée festive dans cet ordre.",
+          "Les horaires précis et indications de tenue seront confirmés dans une mise à jour finale.",
+          "TODO: Aligner le planning détaillé avec le texte source avant publication."
+        ]
+      },
+      {
+        "eyebrow": "Jour 3",
+        "title": "Brunch De Départ",
+        "body": [
+          "Une matinée calme pour se dire au revoir et partager un dernier moment.",
+          "Les horaires de départ restent flexibles selon votre plan de voyage."
+        ]
+      }
+    ]
+  },
+  "faqPage": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Les réponses importantes réunies au même endroit avant votre départ.",
+    "sections": [
+      {
+        "eyebrow": "FAQ",
+        "title": "Puis-Je Venir Avec Un Accompagnant ?",
+        "body": [
+          "Merci de suivre les indications précisées dans votre invitation.",
+          "En cas de doute, contactez-nous et nous clarifierons rapidement."
+        ]
+      },
+      {
+        "eyebrow": "FAQ",
+        "title": "Quel Est Le Dress Code ?",
+        "body": [
+          "Une tenue élégante et confortable est recommandée.",
+          "Évitez les tenues très casual et tenez compte de la météo."
+        ]
+      },
+      {
+        "eyebrow": "FAQ",
+        "title": "Les Enfants Peuvent-Ils Participer ?",
+        "body": [
+          "L'organisation familiale peut varier selon les temps du programme.",
+          "TODO: Confirmer la politique finale de présence des enfants depuis la source et les invitations."
+        ]
+      }
+    ]
+  },
+  "rsvpPage": {
+    "title": "RSVP",
+    "subtitle": "Le formulaire d'inscription complet n'est pas encore connecté.",
+    "cardTitle": "Ouverture RSVP Bientôt",
+    "line1": "Merci pour votre patience pendant la finalisation du flux d'inscription externe.",
+    "line2": "Pour le moment, cette page reste un espace temporaire et le bouton RSVP reste visible par choix.",
+    "line3": "Vous recevrez une mise à jour dès l'ouverture de l'inscription."
+  }
+}
