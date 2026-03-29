@@ -74,32 +74,39 @@
   },
   "accommodationFoodPage": {
     "title": "Accommodation & Food",
-    "subtitle": "Practical guidance to help everyone stay comfortably and enjoy the weekend.",
+    "subtitle": "All information related to accommodation and meals during the weekend.",
     "sections": [
       {
-        "eyebrow": "Stay",
-        "title": "Recommended Accommodation Options",
+        "eyebrow": "Information",
+        "title": "General Information",
         "body": [
-          "We prepared accommodation options at different price ranges and distances.",
-          "Early reservation is highly recommended during summer season.",
-          "TODO: Replace this placeholder list with the final approved addresses from source."
+          "For guests who would like to continue the festivities, it will be possible to stay overnight at the castle.",
+          "It will also be possible to reserve meals linked to your stay. These will also be reserved and paid directly by each guest.",
+          "More information about prices, reservations and schedules will be shared later.",
+          "If you already know that you would be interested in accommodation on site, please let us know so we can organize this as smoothly as possible."
         ]
       },
       {
-        "eyebrow": "Meals",
-        "title": "Food During The Wedding Weekend",
+        "eyebrow": "Packages",
+        "title": "Packages And Prices",
         "body": [
-          "Main wedding meals are organized as part of the event schedule.",
-          "Please share allergies and dietary constraints in the RSVP when it opens.",
-          "Vegetarian and non-alcoholic options will be available."
+          "Accommodation and meals will be organized as part of the wedding but will be paid by each guest.",
+          "Friday - Saturday",
+          "One night including Friday dinner and Saturday brunch.",
+          "Price: approximately 1,000 SEK per person",
+          "Saturday - Sunday",
+          "One night including Sunday breakfast buffet.",
+          "Price: approximately 1,000 SEK per person",
+          "Friday - Sunday",
+          "Two nights including Friday dinner, Saturday brunch and Sunday breakfast buffet.",
+          "Price: approximately 1,800 SEK per person"
         ]
       },
       {
-        "eyebrow": "Transport",
-        "title": "Getting Between Hotel And Venue",
+        "eyebrow": "Planning",
+        "title": "A Full Weekend Together",
         "body": [
-          "Transport guidance will be added for each key time slot of the program.",
-          "If needed, we will provide shuttle timing details in a later update."
+          "We hope many of you will choose to stay and share this full weekend of celebration with us."
         ]
       }
     ]

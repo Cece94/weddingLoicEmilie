@@ -10,10 +10,10 @@
     "nav": {
       "ourWedding": "VÅRT BRÖLLOP",
       "accommodationFood": "ÖVERNATTNING OCH MAT",
-      "registration": "REGISTRATION",
+      "registration": "ANMÄLAN",
       "travel": "RESA",
       "program": "PROGRAM",
-      "faq": "FAQ SV"
+      "faq": "FAQ"
     }
   },
   "footer": {
@@ -74,32 +74,39 @@
   },
   "accommodationFoodPage": {
     "title": "Overnattning Och Mat",
-    "subtitle": "Praktisk vagledning sa att alla kan bo bekvamt och njuta av helgen.",
+    "subtitle": "All information om overnattning och maltider under helgen.",
     "sections": [
       {
-        "eyebrow": "Boende",
-        "title": "Rekommenderade Boendealternativ",
+        "eyebrow": "Information",
+        "title": "Allman Information",
         "body": [
-          "Vi har samlat boendealternativ i olika prisklasser och avstand.",
-          "Tidiga bokningar rekommenderas starkt under sommaren.",
-          "TODO: Ersatt denna tillfalliga lista med slutliga adresser fran kallsidan."
+          "For gaster som vill forlana firandet kommer det att vara mojligt att overnatta pa slottet.",
+          "Det kommer ocksa att vara mojligt att boka maltider kopplade till vistelsen. Dessa bokas och betalas direkt av varje gast.",
+          "Mer information om priser, bokningar och tider kommer senare.",
+          "Om ni redan nu vet att ni ar intresserade av boende pa plats, meddela oss garna sa att vi kan planera pa basta satt."
         ]
       },
       {
-        "eyebrow": "Mat",
-        "title": "Maltider Under Brollopshelgen",
+        "eyebrow": "Paket",
+        "title": "Paket Och Priser",
         "body": [
-          "Huvudmaltiderna ingar i brollopsprogrammet.",
-          "Ange allergier och kostbehov nar RSVP oppnar.",
-          "Vegetariska och alkoholfria alternativ kommer att finnas."
+          "Overnattning och maltider organiseras inom ramen for brollopet men betalas av varje gast.",
+          "Fredag - Lordag",
+          "En overnattning med middag pa fredagen och brunch pa lordagen.",
+          "Pris: cirka 1 000 SEK per person",
+          "Lordag - Sondag",
+          "En overnattning med frukostbuffe pa sondagen.",
+          "Pris: cirka 1 000 SEK per person",
+          "Fredag - Sondag",
+          "Tva overnattningar med middag pa fredagen, brunch pa lordagen och frukostbuffe pa sondagen.",
+          "Pris: cirka 1 800 SEK per person"
         ]
       },
       {
-        "eyebrow": "Transport",
-        "title": "Mellan Hotell Och Festplats",
+        "eyebrow": "Planering",
+        "title": "En Helg Tillsammans",
         "body": [
-          "Transportinformation laggs till for varje viktig tidpunkt i programmet.",
-          "Vid behov delar vi shuttle-tider i en senare uppdatering."
+          "Vi hoppas att manga av er valjer att stanna och dela hela denna festhelg med oss."
         ]
       }
     ]

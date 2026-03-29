@@ -10,10 +10,10 @@
     "nav": {
       "ourWedding": "NOTRE MARIAGE",
       "accommodationFood": "HÉBERGEMENT ET REPAS",
-      "registration": "REGISTRATION",
+      "registration": "INSCRIPTION",
       "travel": "VOYAGE",
-      "program": "PROGRAM",
-      "faq": "FAQ FR"
+      "program": "PROGRAMME",
+      "faq": "FAQ"
     }
   },
   "footer": {
@@ -74,32 +74,39 @@
   },
   "accommodationFoodPage": {
     "title": "Hébergement Et Repas",
-    "subtitle": "Un guide pratique pour aider chacun à séjourner confortablement et profiter du week-end.",
+    "subtitle": "Toutes les informations liées à l'hébergement et aux repas pendant le week-end.",
     "sections": [
       {
-        "eyebrow": "Séjour",
-        "title": "Options D'Hébergement Recommandées",
+        "eyebrow": "Informations",
+        "title": "Informations Générales",
         "body": [
-          "Nous avons préparé plusieurs options d'hébergement selon différents budgets et distances.",
-          "Une réservation anticipée est fortement conseillée en période estivale.",
-          "TODO: Remplacer cette liste provisoire par les adresses finales validées depuis la source."
+          "Pour celles et ceux qui souhaitent prolonger les festivités, il sera possible de passer la nuit au château.",
+          "Il sera également possible de réserver des repas en lien avec votre séjour. Ceux-ci seront également réservés et payés directement par chaque invité.",
+          "Plus d’informations concernant les prix, les réservations et les horaires seront communiquées ultérieurement.",
+          "Si vous savez déjà que vous seriez intéressé(e) par un hébergement sur place, n’hésitez pas à nous en informer afin que nous puissions organiser cela au mieux."
         ]
       },
       {
-        "eyebrow": "Repas",
-        "title": "Alimentation Pendant Le Week-End",
+        "eyebrow": "Formules",
+        "title": "Formules Et Prix",
         "body": [
-          "Les repas principaux du mariage sont prévus dans le déroulé de l'événement.",
-          "Merci de transmettre vos allergies et contraintes alimentaires dès l'ouverture du RSVP.",
-          "Des options végétariennes et sans alcool seront disponibles."
+          "L’hébergement et les repas seront organisés dans le cadre du mariage mais seront à la charge de chaque invité.",
+          "Vendredi - samedi",
+          "Nuitée avec dîner le vendredi et brunch le samedi.",
+          "Prix : environ 1 000 SEK par personne",
+          "Samedi - dimanche",
+          "Nuitée avec buffet de petit-déjeuner le dimanche.",
+          "Prix : environ 1 000 SEK par personne",
+          "Vendredi - dimanche",
+          "Deux nuitées avec dîner le vendredi, brunch le samedi et buffet de petit-déjeuner le dimanche.",
+          "Prix : environ 1 800 SEK par personne"
         ]
       },
       {
-        "eyebrow": "Transports",
-        "title": "Trajets Entre Hôtel Et Lieu",
+        "eyebrow": "Organisation",
+        "title": "Un Week-End Ensemble",
         "body": [
-          "Les indications de transport seront ajoutées pour chaque horaire clé du programme.",
-          "Si nécessaire, nous communiquerons un détail des navettes dans une prochaine mise à jour."
+          "Nous espérons que beaucoup d'entre vous choisiront de rester afin de partager tout ce week-end de célébration avec nous."
         ]
       }
     ]
