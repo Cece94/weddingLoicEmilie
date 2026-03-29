@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 
 type FlowerParticle = {
-  id: number;
+  id: string;
   x: number;
   y: number;
   size: number;
@@ -36,7 +36,13 @@ function randomBetween(min: number, max: number) {
   return min + Math.random() * (max - min);
 }
 
-function buildParticle(clientX: number, clientY: number, deltaX: number, deltaY: number): FlowerParticle {
+function buildParticle(
+  id: string,
+  clientX: number,
+  clientY: number,
+  deltaX: number,
+  deltaY: number,
+): FlowerParticle {
   const size = randomBetween(11, 20);
   const lagFactor = randomBetween(0.25, 0.45);
   const x = clientX - deltaX * lagFactor + randomBetween(-4, 4) - size / 2;
@@ -44,7 +50,7 @@ function buildParticle(clientX: number, clientY: number, deltaX: number, deltaY:
   const iconPath = FLOWER_ICONS[Math.floor(Math.random() * FLOWER_ICONS.length)] ?? FLOWER_ICONS[0];
 
   return {
-    id: Date.now() + Math.floor(Math.random() * 100000),
+    id,
     x,
     y,
     size,
@@ -59,6 +65,7 @@ function buildParticle(clientX: number, clientY: number, deltaX: number, deltaY:
 export function FlowerTrail() {
   const [particles, setParticles] = useState<FlowerParticle[]>([]);
   const lastSpawnRef = useRef(0);
+  const nextIdRef = useRef(0);
   const lastPointerRef = useRef<{ x: number; y: number } | null>(null);
   const particleTimeoutsRef = useRef<number[]>([]);
   const reducedMotionRef = useRef(false);
@@ -101,7 +108,8 @@ export function FlowerTrail() {
       lastSpawnRef.current = now;
 
       // Spawn slightly behind pointer movement to create a real trail.
-      const particle = buildParticle(event.clientX, event.clientY, deltaX, deltaY);
+      const particleId = `flower-${nextIdRef.current++}`;
+      const particle = buildParticle(particleId, event.clientX, event.clientY, deltaX, deltaY);
 
       setParticles((previous) => [...previous.slice(-MAX_PARTICLES + 1), particle]);
 

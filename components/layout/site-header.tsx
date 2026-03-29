@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
@@ -27,9 +28,10 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-7xl items-center gap-4 px-4 py-3 md:px-6">
         <Link
           href={`/${locale}/our-wedding`}
-          className="mr-auto font-serif text-2xl leading-none tracking-[0.16em]"
+          className="mr-auto inline-flex items-center gap-2 font-serif text-2xl leading-none tracking-[0.16em]"
           aria-label={t("siteTitle")}
         >
+          <Image src="/bouquet-icon.svg" alt="" aria-hidden width={24} height={24} className="h-6 w-6 md:h-6 md:w-6" />
           E & L
         </Link>
 
