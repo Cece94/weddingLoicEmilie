@@ -77,6 +77,38 @@ button {
   isolation: isolate;
 }
 
+@keyframes flowerTrailFall {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  12% {
+    opacity: var(--flower-opacity, 0.85);
+  }
+  100% {
+    opacity: 0;
+    transform: translate3d(var(--flower-fall-drift, 0px), 120vh, 0) rotate(var(--flower-fall-rotation, 180deg));
+  }
+}
+
+.flower-trail-layer {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.flower-trail-particle {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform-origin: center;
+  will-change: transform, opacity;
+  filter: drop-shadow(0 1px 1px rgba(42, 37, 34, 0.16));
+  animation: flowerTrailFall var(--flower-fall-duration, 4000ms) linear forwards;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .hero-title-gradient {
     animation: none;
@@ -89,5 +121,9 @@ button {
   .story-arch-image {
     transform: none !important;
     transition: none !important;
+  }
+
+  .flower-trail-layer {
+    display: none;
   }
 }

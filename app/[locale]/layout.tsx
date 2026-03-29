@@ -4,6 +4,7 @@ import { NextIntlClientProvider, hasLocale } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { SiteHeader } from "@/components/layout/site-header";
+import { FlowerTrail } from "@/components/ui/flower-trail";
 import { locales } from "@/lib/i18n/config";
 
 type LocaleLayoutProps = {
@@ -33,17 +34,20 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
 
   return (
     <NextIntlClientProvider key={locale} locale={locale} messages={messages}>
-      <div className="flex min-h-screen flex-col">
-        <SiteHeader />
-        <main className="relative mx-auto w-full max-w-7xl flex-1 px-4 pb-16 md:px-6">
-          <div
-            aria-hidden="true"
-            className="pointer-events-none absolute left-1/2 top-0 z-0 w-[min(72vw,620px)] -translate-x-1/2 -translate-y-[4%] opacity-90 md:w-[min(66vw,760px)] md:-translate-y-[8%]"
-          >
-            <Image src="/bouquet.svg" alt="" width={1600} height={560} priority className="h-auto w-full" />
-          </div>
-          <div className="relative z-10">{children}</div>
-        </main>
+      <div className="relative isolate">
+        <FlowerTrail />
+        <div className="relative z-10 flex min-h-screen flex-col">
+          <SiteHeader />
+          <main className="relative mx-auto w-full max-w-7xl flex-1 px-4 pb-16 md:px-6">
+            <div
+              aria-hidden="true"
+              className="pointer-events-none absolute left-1/2 top-0 z-0 w-[min(72vw,620px)] -translate-x-1/2 -translate-y-[4%] opacity-90 md:w-[min(66vw,760px)] md:-translate-y-[8%]"
+            >
+              <Image src="/bouquet.svg" alt="" width={1600} height={560} priority className="h-auto w-full" />
+            </div>
+            <div className="relative z-10">{children}</div>
+          </main>
+        </div>
       </div>
     </NextIntlClientProvider>
   );
