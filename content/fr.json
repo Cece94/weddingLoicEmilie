@@ -113,61 +113,36 @@
   },
   "registrationPage": {
     "title": "Inscription",
-    "subtitle": "Une phase RSVP temporaire est en place pendant la finalisation du formulaire externe.",
-    "sections": [
-      {
-        "eyebrow": "Statut",
-        "title": "RSVP Bientôt Disponible",
-        "body": [
-          "Le formulaire externe d'inscription n'est volontairement pas connecté dans cette phase.",
-          "Merci de consulter régulièrement cette page, le bouton RSVP et nos messages directs."
-        ]
-      },
-      {
-        "eyebrow": "Informations",
-        "title": "Ce Qui Sera Demandé À L'Ouverture",
-        "body": [
-          "Confirmation de présence pour chaque invité.",
-          "Contraintes alimentaires et allergies.",
-          "Contraintes de voyage et fenêtres d'arrivée/départ."
-        ]
-      },
-      {
-        "eyebrow": "Rappel",
-        "title": "Quand Répondre",
-        "body": [
-          "Nous partagerons bientôt la date d'ouverture du RSVP et la date limite de réponse.",
-          "TODO: Ajouter le texte final de date limite dès confirmation de la source."
-        ]
-      }
-    ]
+    "subtitle": "Le RSVP arrive bientôt.",
+    "comingSoonTitle": "Ouverture Du RSVP Très Prochainement",
+    "comingSoonLine1": "Nous finalisons actuellement les derniers détails du formulaire d'inscription.",
+    "comingSoonLine2": "Merci pour votre patience, nous vous partagerons le lien dès son ouverture."
   },
   "travelPage": {
     "title": "Voyage",
-    "subtitle": "Comment rejoindre la zone du mariage et se déplacer facilement pendant l'événement.",
+    "subtitle": "Comment rejoindre le château de Kaggeholm facilement.",
     "sections": [
       {
-        "eyebrow": "En Avion",
-        "title": "Accès Depuis Les Aéroports",
+        "eyebrow": "Transport",
+        "title": "Voyager En Avion",
         "body": [
-          "Les invités internationaux peuvent viser l'aéroport principal le plus proche en Suède.",
-          "Des liaisons train et bus permettent ensuite de rejoindre la zone de célébration."
+          "Pour les voyageurs venant de l'étranger, l'aéroport le plus proche est celui de Bromma, à environ 2 heures du château. Prenez ensuite le bus 176/177 en direction d'Ekerö Tappström, puis changez de bus à Ekerö Centrum pour rejoindre le château de Kaggeholm.",
+          "Depuis Arlanda jusqu'au château, il est recommandé de prendre le bus Arlanda Terminal 5 jusqu'au métro Brommaplan et de changer avec le bus 309 jusqu'au château de Kaggeholm."
         ]
       },
       {
-        "eyebrow": "En Train",
-        "title": "Connexions Ferroviaires",
+        "eyebrow": "Transport",
+        "title": "Voyager En Voiture, En Train Ou En Bus",
         "body": [
-          "Le réseau suédois offre des trajets fiables depuis les grandes villes.",
-          "Réserver tôt est recommandé pour obtenir de meilleurs tarifs."
+          "Pour ceux qui voyagent en voiture, un parking est disponible près du château. Un ferry relie Fittja à Ekerö.",
+          "Pour ceux d'entre vous qui voyagent en transports en commun, il y a le bus 309 de Brommaplan ou Ekerö Centrum à Kaggeholm Slott."
         ]
       },
       {
-        "eyebrow": "Sur Place",
-        "title": "Derniers Kilomètres",
+        "eyebrow": "Transport",
+        "title": "Voyager En Métro",
         "body": [
-          "Taxi et options de transfert local sont disponibles près des gares et hôtels.",
-          "TODO: Insérer les noms finaux de gares et consignes de transfert depuis la source."
+          "Pour ceux d'entre vous qui voyagent en métro, prenez le métro de T-central à Brommaplan et changez pour le bus 176 jusqu'à Bromma Tappström, puis descendez à Ekerö Centrum et prenez le bus 309 en direction du château de Kaggeholm."
         ]
       }
     ]

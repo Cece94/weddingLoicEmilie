@@ -113,61 +113,36 @@
   },
   "registrationPage": {
     "title": "Anmalan",
-    "subtitle": "En tillfallig RSVP-fas ar aktiv medan den externa registreringen forbereds.",
-    "sections": [
-      {
-        "eyebrow": "Status",
-        "title": "RSVP Oppnar Snart",
-        "body": [
-          "Det externa registreringsformularret ar medvetet inte kopplat i denna fas.",
-          "Kontrollera den har sidan, RSVP-knappen och vara direktmeddelanden regelbundet."
-        ]
-      },
-      {
-        "eyebrow": "Information",
-        "title": "Vad Vi Fragar Efter Nar RSVP Oppnar",
-        "body": [
-          "Narvarobekraftelse for varje gast.",
-          "Matallergier och kostbehov.",
-          "Resebegransningar samt ankomst- och avresetider."
-        ]
-      },
-      {
-        "eyebrow": "Paminnelse",
-        "title": "Nar Ska Du Svara",
-        "body": [
-          "Vi meddelar snart oppningsdatum och sista svarsdatum for RSVP.",
-          "TODO: Lagga till slutlig deadline-text nar kallsidan ar bekraftad."
-        ]
-      }
-    ]
+    "subtitle": "RSVP kommer snart.",
+    "comingSoonTitle": "RSVP Oppnar Inom Kort",
+    "comingSoonLine1": "Vi slutfors just nu de sista detaljerna i anmalningsformularret.",
+    "comingSoonLine2": "Tack for ert talamod, vi delar lanken sa fort anmalan oppnar."
   },
   "travelPage": {
     "title": "Resa",
-    "subtitle": "Hur ni tar er till brollopsomradet och ror er smidigt under helgen.",
+    "subtitle": "Hur ni enklast tar er till Kaggeholm Slott.",
     "sections": [
       {
-        "eyebrow": "Med Flyg",
-        "title": "Narmaste Flygplatsvagar",
+        "eyebrow": "Transport",
+        "title": "Resa Med Flyg",
         "body": [
-          "Internationella gaster kan planera till narmaste storre flygplats i Sverige.",
-          "Tag- och bussforbindelser finns vidare till firandeomradet."
+          "For resenarer som kommer fran utlandet ar den narmaste flygplatsen Bromma, cirka 2 timmar fran slottet. Ta sedan buss 176/177 mot Ekero Tappstrom och byt buss i Ekero Centrum for att komma till Kaggeholm Slott.",
+          "Fran Arlanda till slottet rekommenderar vi att ta bussen fran Arlanda Terminal 5 till Brommaplan och sedan byta till buss 309 till Kaggeholm Slott."
         ]
       },
       {
-        "eyebrow": "Med Tag",
-        "title": "Tagforbindelser",
+        "eyebrow": "Transport",
+        "title": "Resa Med Bil, Tag Eller Buss",
         "body": [
-          "Svenska tagnatet erbjuder stabila alternativ fran storre stader.",
-          "Boka tidigt nar det ar mojligt for battre priser."
+          "For er som reser med bil finns parkering nara slottet. En farja gar mellan Fittja och Ekero.",
+          "For er som reser kollektivt finns buss 309 fran Brommaplan eller Ekero Centrum till Kaggeholm Slott."
         ]
       },
       {
-        "eyebrow": "Lokalt",
-        "title": "Sista Strackan",
+        "eyebrow": "Transport",
+        "title": "Resa Med Tunnelbana",
         "body": [
-          "Taxi och lokala transferalternativ finns vid stationer och hotell.",
-          "TODO: Fyll i slutliga stationsnamn och transferinstruktioner fran kallsidan."
+          "For er som reser med tunnelbana, ta tunnelbanan fran T-centralen till Brommaplan och byt till buss 176 till Bromma Tappstrom. Ga av i Ekero Centrum och ta sedan buss 309 mot Kaggeholm Slott."
         ]
       }
     ]

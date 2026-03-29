@@ -113,61 +113,36 @@
   },
   "registrationPage": {
     "title": "Registration",
-    "subtitle": "A temporary RSVP phase is active while final form integration is still pending.",
-    "sections": [
-      {
-        "eyebrow": "Status",
-        "title": "RSVP Opening Soon",
-        "body": [
-          "The external registration form is intentionally not connected in this phase.",
-          "Please keep checking this page, the RSVP call-to-action and our direct messages."
-        ]
-      },
-      {
-        "eyebrow": "What We Need",
-        "title": "Information Requested At RSVP Launch",
-        "body": [
-          "Attendance confirmation for each guest.",
-          "Dietary restrictions and allergy details.",
-          "Travel constraints and arrival/departure windows."
-        ]
-      },
-      {
-        "eyebrow": "Reminder",
-        "title": "When To Reply",
-        "body": [
-          "We will communicate the RSVP opening date and response deadline soon.",
-          "TODO: Add final RSVP deadline text from source once confirmed."
-        ]
-      }
-    ]
+    "subtitle": "The RSVP is coming soon.",
+    "comingSoonTitle": "RSVP Opening Very Soon",
+    "comingSoonLine1": "We are currently finalizing the last details of the registration form.",
+    "comingSoonLine2": "Thank you for your patience, we will share the link as soon as it opens."
   },
   "travelPage": {
     "title": "Travel",
-    "subtitle": "How to reach the wedding area and move smoothly during the event.",
+    "subtitle": "How to reach Kaggeholm Castle easily.",
     "sections": [
       {
-        "eyebrow": "By Air",
-        "title": "Closest Airport Routes",
+        "eyebrow": "Transport",
+        "title": "Travel By Air",
         "body": [
-          "International guests can plan flights to the closest major airport in Sweden.",
-          "Train and bus links are available to continue toward the celebration area."
+          "For travelers coming from abroad, the closest airport is Bromma, around 2 hours from the castle. Then take bus 176/177 toward Ekero Tappstrom, and change at Ekero Centrum to reach Kaggeholm Castle.",
+          "From Arlanda to the castle, we recommend taking the bus from Arlanda Terminal 5 to Brommaplan metro station, then changing to bus 309 to Kaggeholm Castle."
         ]
       },
       {
-        "eyebrow": "By Train",
-        "title": "Rail Connections",
+        "eyebrow": "Transport",
+        "title": "Travel By Car, Train Or Bus",
         "body": [
-          "Swedish rail networks provide reliable options from larger cities.",
-          "Book early when possible to secure better pricing."
+          "For those traveling by car, parking is available near the castle. A ferry also connects Fittja to Ekero.",
+          "For those using public transport, bus 309 runs from Brommaplan or Ekero Centrum to Kaggeholm Slott."
         ]
       },
       {
-        "eyebrow": "Local Moves",
-        "title": "Last-Mile Transportation",
+        "eyebrow": "Transport",
+        "title": "Travel By Metro",
         "body": [
-          "Taxi and local transfer options are available near stations and hotels.",
-          "TODO: Insert final station names and transfer instructions from source content."
+          "For those traveling by metro, take the metro from T-central to Brommaplan and change to bus 176 to Bromma Tappstrom, then get off at Ekero Centrum and take bus 309 toward Kaggeholm Castle."
         ]
       }
     ]
