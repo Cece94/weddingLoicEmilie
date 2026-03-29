@@ -30,7 +30,7 @@ export function SiteHeader() {
           className="mr-auto font-serif text-2xl leading-none tracking-[0.16em]"
           aria-label={t("siteTitle")}
         >
-          L & E
+          E & L
         </Link>
 
         <nav className="hidden lg:block" aria-label={t("menu")}>
