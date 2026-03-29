@@ -24,14 +24,14 @@ export default async function AccommodationFoodPage() {
         <section className="md:col-span-5">
           <h2 className="mb-5 text-3xl leading-tight md:text-4xl">{intro?.title}</h2>
           <div className="space-y-4 text-base leading-7 text-foreground/90">
-            {intro?.body.map((line) => <p key={line}>{line}</p>)}
+            {intro?.body.map((line, index) => <p key={`intro-${index}`}>{line}</p>)}
           </div>
         </section>
 
         <section className="md:col-span-7">
           <h2 className="mb-5 text-3xl leading-tight md:text-4xl">{packages?.title}</h2>
           <div className="space-y-4 text-base leading-7 text-foreground/90">
-            {packages?.body.map((line) => <p key={line}>{line}</p>)}
+            {packages?.body.map((line, index) => <p key={`packages-${index}`}>{line}</p>)}
           </div>
         </section>
       </div>
@@ -39,7 +39,7 @@ export default async function AccommodationFoodPage() {
       <section className="mt-10 border-t border-line pt-8 md:mt-12 md:pt-10">
         <h2 className="mb-4 text-3xl leading-tight md:text-4xl">{outro?.title}</h2>
         <div className="space-y-4 text-base leading-7 text-foreground/90">
-          {outro?.body.map((line) => <p key={line}>{line}</p>)}
+          {outro?.body.map((line, index) => <p key={`outro-${index}`}>{line}</p>)}
         </div>
       </section>
     </FadeIn>
