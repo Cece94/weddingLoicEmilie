@@ -149,61 +149,81 @@
   },
   "programPage": {
     "title": "Program",
-    "subtitle": "En elegant och avslappnad tidslinje for hela helgen.",
-    "sections": [
-      {
-        "eyebrow": "Dag 1",
-        "title": "Valkomststund",
-        "body": [
-          "Gastankomster och informella valkomstmoment.",
-          "Tid att landa, ses igen och forbereda sig for huvudfirandet."
-        ]
-      },
-      {
-        "eyebrow": "Dag 2",
-        "title": "Ceremoni Och Fest",
-        "body": [
-          "Ceremoni, cocktail, middag och kvallsfirande i foljd.",
-          "Exakta tider och kladkod bekraftas i en slutlig uppdatering.",
-          "TODO: Synka den detaljerade tidsplanen med originaltexten fore lansering."
-        ]
-      },
-      {
-        "eyebrow": "Dag 3",
-        "title": "Avskedsbrunch",
-        "body": [
-          "En lugn morgon for att saga hej da och dela sista stunden tillsammans.",
-          "Avresetider ar flexibla beroende pa er resa."
-        ]
-      }
-    ]
+    "subtitle": "Programmet for brollopsdagen.",
+    "leadTitle": "Brollopsprogram",
+    "leadLines": [
+      "Har ar dagens viktigaste stunder sa att vi kan fira tillsammans.",
+      "Vi rekommenderar att ni kommer lite tidigare sa att ni kan njuta av ceremonin i lugn och ro."
+    ],
+    "timeline": [
+      { "time": "15.30", "label": "Ceremoni" },
+      { "time": "16.00", "label": "Cocktail" },
+      { "time": "16.15", "label": "Brudparets skal" },
+      { "time": "17.30", "label": "Middag" },
+      { "time": "19.15", "label": "Brollopstarta" },
+      { "time": "19.40", "label": "Forsta dansen" },
+      { "time": "Fran 19.45", "label": "Fest" }
+    ],
+    "closingLine": "Tiderna ar preliminara och kan justeras nagot."
   },
   "faqPage": {
-    "title": "Vanliga Fragor",
-    "subtitle": "Viktiga svar samlade pa ett stalle innan er resa.",
-    "sections": [
+    "title": "Fragor Och Svar",
+    "subtitle": "Alla praktiska svar samlade pa ett och samma stalle.",
+    "items": [
       {
-        "eyebrow": "FAQ",
-        "title": "Kan Jag Ta Med En Plus-One?",
-        "body": [
-          "Folj informationen som star i er personliga inbjudan.",
-          "Om ni ar osakra, kontakta oss sa klargor vi snabbt."
+        "question": "Var kommer ceremonin och middagen att hallas?",
+        "answer": [
+          "Ceremonin och middagen kommer att hallas pa samma plats, pa slottet."
         ]
       },
       {
-        "eyebrow": "FAQ",
-        "title": "Vad Ar Kladkoden?",
-        "body": [
-          "Elegant och bekvam kladsel rekommenderas.",
-          "Undvik mycket casual stil och ta hansyn till vader."
+        "question": "Ar barn valkomna pa brollopet?",
+        "answer": [
+          "Sjalklart ar barn valkomna att fira med oss!",
+          "Vi vore tacksamma om ni kan ha uppsikt over era barn under hela dagen och kvallen."
         ]
       },
       {
-        "eyebrow": "FAQ",
-        "title": "Kan Barn Delta?",
-        "body": [
-          "Familjeupplagget kan variera beroende pa programpunkt.",
-          "TODO: Bekrafta slutlig barnpolicy med kallsida och inbjudningar."
+        "question": "Jag vill halla ett tal. Hur gor jag?",
+        "answer": [
+          "Meddela var talansvariga, Dalia, eller var toastmaster, X, om du vill tala.",
+          "Vi rekommenderar cirka 5 minuter per tal.",
+          "Dalia: 070XXXXX"
+        ]
+      },
+      {
+        "question": "Finns det ett kopcentrum i narheten om jag behover kopa nagot?",
+        "answer": [
+          "Tyvarr behover man aka till centrum i Ekero, men det finns en liten bistro nara slottet."
+        ]
+      },
+      {
+        "question": "Finns det en kladkod?",
+        "answer": [
+          "Vi onskar elegant kladsel till brollopet, men det viktigaste ar att ni kanner er bekvama och far njuta fullt ut av dagen med oss.",
+          "Glom inte att ta med en jacka om det skulle regna, eftersom ceremonin ar utomhus."
+        ]
+      },
+      {
+        "question": "Nar ska man osa?",
+        "answer": [
+          "Senast den 12 juli.",
+          "Ni hittar formularret i avsnittet \"Registration\"."
+        ]
+      },
+      {
+        "question": "Jag har bokat en overnattning, vad ska jag ta med?",
+        "answer": [
+          "Sangklader, handdukar och ett hygienkit ingar i bokningen.",
+          "Toalett och dusch finns i slottet, men delas med andra gaster.",
+          "Ni kan ta med pyjamas, tofflor, tvål, schampo och liknande."
+        ]
+      },
+      {
+        "question": "Har ni nagra speciella onskemal kring presenter?",
+        "answer": [
+          "Er narvaro pa vart brollop ar den finaste present vi kan fa.",
+          "Om ni vill ge oss nagot uppskattar vi ett bidrag till var brollopsresa."
         ]
       }
     ]

@@ -149,61 +149,81 @@
   },
   "programPage": {
     "title": "Programme",
-    "subtitle": "Un déroulé élégant et détendu sur tout le week-end.",
-    "sections": [
-      {
-        "eyebrow": "Jour 1",
-        "title": "Accueil Des Invités",
-        "body": [
-          "Arrivées et moments d'accueil informels.",
-          "Le temps de s'installer, se retrouver et se préparer pour la célébration principale."
-        ]
-      },
-      {
-        "eyebrow": "Jour 2",
-        "title": "Cérémonie Et Fête",
-        "body": [
-          "Cérémonie, cocktail, dîner puis soirée festive dans cet ordre.",
-          "Les horaires précis et indications de tenue seront confirmés dans une mise à jour finale.",
-          "TODO: Aligner le planning détaillé avec le texte source avant publication."
-        ]
-      },
-      {
-        "eyebrow": "Jour 3",
-        "title": "Brunch De Départ",
-        "body": [
-          "Une matinée calme pour se dire au revoir et partager un dernier moment.",
-          "Les horaires de départ restent flexibles selon votre plan de voyage."
-        ]
-      }
-    ]
+    "subtitle": "Le déroulé de la journée du mariage.",
+    "leadTitle": "Programme Du Mariage",
+    "leadLines": [
+      "Voici les grands moments de la journée pour célébrer ensemble.",
+      "Nous vous recommandons d'arriver un peu en avance pour profiter pleinement de la cérémonie."
+    ],
+    "timeline": [
+      { "time": "15h30", "label": "Cérémonie" },
+      { "time": "16h00", "label": "Cocktail" },
+      { "time": "16h15", "label": "Toast des mariés" },
+      { "time": "17h30", "label": "Dîner" },
+      { "time": "19h15", "label": "Gâteau de mariage" },
+      { "time": "19h40", "label": "Première danse" },
+      { "time": "Dès 19h45", "label": "Soirée" }
+    ],
+    "closingLine": "Les horaires sont donnés à titre indicatif et peuvent légèrement évoluer."
   },
   "faqPage": {
-    "title": "Questions Fréquentes",
-    "subtitle": "Les réponses importantes réunies au même endroit avant votre départ.",
-    "sections": [
+    "title": "Questions Et Réponses",
+    "subtitle": "Toutes les réponses pratiques au même endroit.",
+    "items": [
       {
-        "eyebrow": "FAQ",
-        "title": "Puis-Je Venir Avec Un Accompagnant ?",
-        "body": [
-          "Merci de suivre les indications précisées dans votre invitation.",
-          "En cas de doute, contactez-nous et nous clarifierons rapidement."
+        "question": "Où se dérouleront la cérémonie et le dîner ?",
+        "answer": [
+          "La cérémonie et le dîner se dérouleront au même endroit, au château."
         ]
       },
       {
-        "eyebrow": "FAQ",
-        "title": "Quel Est Le Dress Code ?",
-        "body": [
-          "Une tenue élégante et confortable est recommandée.",
-          "Évitez les tenues très casual et tenez compte de la météo."
+        "question": "Les enfants sont-ils les bienvenus au mariage ?",
+        "answer": [
+          "Bien sûr, les enfants sont les bienvenus pour célébrer avec nous !",
+          "Nous vous serions reconnaissants de bien vouloir veiller sur vos enfants tout au long de la journée et de la soirée."
         ]
       },
       {
-        "eyebrow": "FAQ",
-        "title": "Les Enfants Peuvent-Ils Participer ?",
-        "body": [
-          "L'organisation familiale peut varier selon les temps du programme.",
-          "TODO: Confirmer la politique finale de présence des enfants depuis la source et les invitations."
+        "question": "Je souhaite prendre la parole. Comment faire ?",
+        "answer": [
+          "Veuillez informer notre responsable des discours, Dalia, ou notre maître des discours, X, si vous souhaitez prendre la parole.",
+          "Nous recommandons environ 5 minutes par discours.",
+          "Dalia : 070XXXXX"
+        ]
+      },
+      {
+        "question": "Y a-t-il un centre commercial à proximité si j'ai besoin d'acheter quelque chose ?",
+        "answer": [
+          "Malheureusement, il faut aller au centre d'Ekerö, mais il y a un petit bistro près du château."
+        ]
+      },
+      {
+        "question": "Y a-t-il un code vestimentaire ?",
+        "answer": [
+          "Nous souhaiterions une tenue élégante pour le mariage, mais le plus important est que vous vous sentiez à l'aise et que vous profitiez pleinement de cette journée avec nous.",
+          "N'oubliez pas d'apporter une veste en cas de pluie, car la cérémonie se déroule en extérieur."
+        ]
+      },
+      {
+        "question": "Quand faut-il confirmer sa présence ?",
+        "answer": [
+          "Au plus tard le 12 juillet.",
+          "Vous trouverez le formulaire dans la section « Registration »."
+        ]
+      },
+      {
+        "question": "J'ai réservé une nuitée, que dois-je apporter ?",
+        "answer": [
+          "Le linge de lit, les serviettes et un kit d'hygiène sont fournis et inclus dans la réservation.",
+          "Les toilettes et la douche se trouvent dans le château, mais sont partagées avec les autres clients.",
+          "Vous pouvez apporter votre pyjama, vos chaussons, votre savon, votre shampoing, etc."
+        ]
+      },
+      {
+        "question": "Avez-vous des souhaits particuliers concernant les cadeaux ?",
+        "answer": [
+          "Votre présence à notre mariage est le plus beau cadeau que nous puissions recevoir.",
+          "Si vous souhaitez nous offrir quelque chose, nous apprécierions une contribution à notre voyage de noces."
         ]
       }
     ]
