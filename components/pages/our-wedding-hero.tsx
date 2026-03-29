@@ -1,6 +1,8 @@
 import Image from "next/image";
+import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { FadeIn } from "@/components/ui/fade-in";
+import { RSVP_FORM_URL } from "@/lib/external-links";
 
 type StoryCard = {
   date: string;
@@ -13,6 +15,7 @@ const storyImages = ["/images/story-01.png", "/images/story-02.png", "/images/st
 
 export async function OurWeddingHero() {
   const t = await getTranslations("ourWeddingPage");
+  const commonT = await getTranslations("common");
   const cards = t.raw("storyCards") as Omit<StoryCard, "image">[];
 
   const mergedCards: StoryCard[] = cards.map((card, index) => ({
@@ -76,6 +79,16 @@ export async function OurWeddingHero() {
             <p className="text-balance text-center font-serif text-2xl leading-relaxed text-black md:text-[1.72rem]">
               {t("heroInvitation")}
             </p>
+            <div className="mt-8 flex justify-center md:hidden">
+              <Link
+                href={RSVP_FORM_URL}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex min-h-11 items-center justify-center rounded-full border border-accent bg-accent px-6 text-sm font-semibold uppercase tracking-[0.16em] text-background"
+              >
+                {commonT("rsvp")}
+              </Link>
+            </div>
           </div>
         </div>
       </section>

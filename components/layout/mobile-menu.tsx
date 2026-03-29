@@ -7,6 +7,7 @@ import Link from "next/link";
 import { createPortal } from "react-dom";
 import { useLocale, useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
+import { RSVP_FORM_URL } from "@/lib/external-links";
 import { navRoutes, type NavKey } from "@/lib/navigation";
 
 const navOrder: NavKey[] = [
@@ -79,7 +80,9 @@ export function MobileMenu() {
             </nav>
 
             <Link
-              href={`/${locale}/rsvp`}
+              href={RSVP_FORM_URL}
+              target="_blank"
+              rel="noreferrer"
               onClick={() => setIsOpen(false)}
               className="mt-8 inline-flex min-h-11 items-center justify-center rounded-full border border-accent bg-accent px-6 text-sm font-semibold tracking-wide text-background"
             >

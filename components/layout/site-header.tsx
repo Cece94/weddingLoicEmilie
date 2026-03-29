@@ -6,6 +6,7 @@ import { useLocale, useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
 import { LanguageSwitcher } from "@/components/layout/language-switcher";
 import { MobileMenu } from "@/components/layout/mobile-menu";
+import { RSVP_FORM_URL } from "@/lib/external-links";
 import { navRoutes, type NavKey } from "@/lib/navigation";
 import { cn } from "@/lib/utils";
 
@@ -61,7 +62,9 @@ export function SiteHeader() {
         <div className="hidden items-center gap-3 lg:flex">
           <LanguageSwitcher />
           <Link
-            href={`/${locale}/rsvp`}
+            href={RSVP_FORM_URL}
+            target="_blank"
+            rel="noreferrer"
             className="inline-flex min-h-11 items-center rounded-full border border-accent bg-accent px-5 text-xs font-semibold uppercase tracking-[0.16em] text-background"
           >
             {t("rsvp")}

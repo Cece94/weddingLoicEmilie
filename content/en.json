@@ -113,10 +113,11 @@
   },
   "registrationPage": {
     "title": "Registration",
-    "subtitle": "The RSVP is coming soon.",
-    "comingSoonTitle": "RSVP Opening Very Soon",
-    "comingSoonLine1": "We are currently finalizing the last details of the registration form.",
-    "comingSoonLine2": "Thank you for your patience, we will share the link as soon as it opens."
+    "subtitle": "Please confirm your attendance through our Google Form.",
+    "comingSoonTitle": "Confirm Your Attendance",
+    "comingSoonLine1": "To register, please complete the Google Form by clicking the button below.",
+    "comingSoonLine2": "The form opens in a new tab and only takes a few minutes to complete.",
+    "formButtonLabel": "RSVP - Register"
   },
   "travelPage": {
     "title": "Travel",

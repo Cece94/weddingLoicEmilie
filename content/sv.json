@@ -113,10 +113,11 @@
   },
   "registrationPage": {
     "title": "Anmalan",
-    "subtitle": "RSVP kommer snart.",
-    "comingSoonTitle": "RSVP Oppnar Inom Kort",
-    "comingSoonLine1": "Vi slutfors just nu de sista detaljerna i anmalningsformularret.",
-    "comingSoonLine2": "Tack for ert talamod, vi delar lanken sa fort anmalan oppnar."
+    "subtitle": "Bekrafta din narvaro via vart Google-formular.",
+    "comingSoonTitle": "Bekrafta Din Narvaro",
+    "comingSoonLine1": "For att anmala dig, fyll i Google-formularet genom att klicka pa knappen nedan.",
+    "comingSoonLine2": "Formularet oppnas i en ny flik och tar bara nagra minuter att fylla i.",
+    "formButtonLabel": "RSVP - Registrera dig"
   },
   "travelPage": {
     "title": "Resa",
