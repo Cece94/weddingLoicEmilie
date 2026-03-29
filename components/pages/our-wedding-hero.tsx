@@ -30,7 +30,7 @@ export async function OurWeddingHero() {
       <section className="relative mt-6 overflow-hidden px-2 pb-10 pt-16 md:mt-8 md:px-4 md:pb-12 md:pt-20 lg:mt-0 lg:px-8 lg:py-14">
         <div className="relative z-10">
           <div className="grid gap-6 md:gap-10 lg:grid-cols-[minmax(300px,1.15fr)_2.25fr] lg:items-start lg:gap-10">
-            <div className="flex flex-col items-center text-center lg:-ml-10 lg:min-h-[440px] lg:items-start lg:justify-center lg:text-left">
+            <div className="flex flex-col items-center text-center lg:min-h-[440px] lg:items-start lg:justify-center lg:text-left">
               <p className="text-xs uppercase tracking-[0.25em] text-muted lg:mb-8">Emilie & Loïc</p>
               <h1 className="hero-title-gradient uppercase">
                 <span className="block whitespace-nowrap text-[10.8vw] leading-[0.92] tracking-[0.01em] md:hidden">
