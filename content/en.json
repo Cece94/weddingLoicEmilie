@@ -49,8 +49,7 @@
         "title": "A Celebration Built On Two Cultures",
         "body": [
           "Our wedding joins family and friends from France, Sweden and beyond.",
-          "We designed this website to make your trip easier and to keep all updates clear.",
-          "TODO: Validate final opening wording against the original source copy."
+          "We designed this website to make your trip easier and to keep all updates clear."
         ]
       },
       {
@@ -59,7 +58,8 @@
         "body": [
           "The celebration takes place in Sweden with events spread over one full wedding weekend.",
           "Exact venue names and maps are shared in dedicated sections below.",
-          "Please review travel and accommodation information before booking."
+          "Please review travel and accommodation information before booking.",
+          "Adress: Kaggeholms slott, 178 54 Ekerö"
         ]
       },
       {
@@ -81,8 +81,7 @@
         "title": "General Information",
         "body": [
           "For guests who would like to continue the festivities, it will be possible to stay overnight at the castle.",
-          "It will also be possible to reserve meals linked to your stay. These will also be reserved and paid directly by each guest.",
-          "More information about prices, reservations and schedules will be shared later.",
+          "Meals will also be linked to your stay. These will also be reserved and paid directly by each guest.",
           "If you already know that you would be interested in accommodation on site, please let us know so we can organize this as smoothly as possible."
         ]
       },
@@ -93,13 +92,15 @@
           "Accommodation and meals will be organized as part of the wedding but will be paid by each guest.",
           "Friday - Saturday",
           "One night including Friday dinner and Saturday brunch.",
-          "Price: approximately 1,000 SEK per person",
+          "Price: approximately 1,000 SEK per person / 600 SEK per kid / 0 SEK for kids with no food bookings",
           "Saturday - Sunday",
           "One night including Sunday breakfast buffet.",
-          "Price: approximately 1,000 SEK per person",
+          "Price: approximately 1,000 SEK per person / 200 SEK per kid / 0 SEK for kids with no food bookings",
           "Friday - Sunday",
           "Two nights including Friday dinner, Saturday brunch and Sunday breakfast buffet.",
-          "Price: approximately 1,800 SEK per person"
+          "Price: approximately 1,800 SEK per person / 800 SEK per kid / 0 SEK for kids with no food bookings",
+          "Kids price may be updated later, information to come.",
+          "Payments will be made on site, upon arrival. If you arrive late let us know by reaching out to the emergency numbers on the form or El.wedding9.12@gmail.com "
         ]
       },
       {
@@ -135,7 +136,7 @@
         "eyebrow": "Transport",
         "title": "Travel By Car, Train Or Bus",
         "body": [
-          "For those traveling by car, parking is available near the castle. A ferry also connects Fittja to Ekero.",
+          "For those traveling by car, parking is available near the castle. A ferry also connects Fittja to Ekero https://www.trafikverket.se/resa-och-trafik/farjetrafik/ekeroleden/.",
           "For those using public transport, bus 309 runs from Brommaplan or Ekero Centrum to Kaggeholm Slott."
         ]
       },
@@ -157,15 +158,15 @@
       "We recommend arriving a little early so you can fully enjoy the ceremony."
     ],
     "timeline": [
-      { "time": "3:30 PM", "label": "Ceremony" },
-      { "time": "4:00 PM", "label": "Cocktail" },
-      { "time": "4:15 PM", "label": "Newlyweds' toast" },
-      { "time": "5:30 PM", "label": "Dinner" },
-      { "time": "7:15 PM", "label": "Wedding cake" },
-      { "time": "7:40 PM", "label": "First dance" },
-      { "time": "From 7:45 PM", "label": "Evening party" }
+      { "label": "Ceremony" },
+      { "label": "Cocktail" },
+      { "label": "Newlyweds' toast" },
+      { "label": "Dinner" },
+      { "label": "Wedding cake" },
+      { "label": "First dance" },
+      { "label": "Evening party" }
     ],
-    "closingLine": "Times are provided as guidance and may change slightly."
+    "closingLine": "Times are to be provided soon."
   },
   "faqPage": {
     "title": "Questions And Answers",
@@ -174,7 +175,7 @@
       {
         "question": "Where will the ceremony and dinner take place?",
         "answer": [
-          "The ceremony and dinner will take place at the same location, at the castle."
+          "The ceremony and dinner will take place at the same location, at the castle - Kaggeholms slott, 178 54 Ekerö."
         ]
       },
       {
@@ -189,13 +190,14 @@
         "answer": [
           "Please inform our speech coordinator, Dalia, or our toastmaster, X, if you would like to speak.",
           "We recommend around 5 minutes per speech.",
-          "Dalia: 070XXXXX"
+          "Dalia (EN): +46 704249821",
+          "Vincent (FR-EN): +46 760829285"
         ]
       },
       {
         "question": "Is there a shopping center nearby if I need to buy something?",
         "answer": [
-          "Unfortunately, you need to go to central Ekero, but there is a small bistro near the castle."
+          "Unfortunately, you need to go to central Ekero (11km, ~30min with bus 309), but there is a small bistro near the castle."
         ]
       },
       {
@@ -215,7 +217,7 @@
       {
         "question": "I booked an overnight stay, what should I bring?",
         "answer": [
-          "Bed linen, towels and a hygiene kit are provided and included in the booking.",
+          "Bed linen, towels and a hygiene kit (toothbrush, toothpaste and razor) are provided and included in the booking.",
           "Toilets and showers are located in the castle, but are shared with other guests.",
           "You can bring your pajamas, slippers, soap, shampoo, etc."
         ]
@@ -225,6 +227,13 @@
         "answer": [
           "Your presence at our wedding is the greatest gift we could receive.",
           "If you would like to give us something, we would appreciate a contribution to our honeymoon."
+        ]
+      },
+      {
+        "question": "Contacts",
+        "answer": [
+          "Toastmasters: Dalia (EN): +46 704249821, Vincent (FR-EN): +46 760829285",
+          "EMail: El.wedding9.12@gmail.com"
         ]
       }
     ]

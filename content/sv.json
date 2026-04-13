@@ -2,14 +2,14 @@
   "common": {
     "siteTitle": "Loic & Emilie",
     "menu": "Meny",
-    "language": "Sprak",
-    "mobileMenuOpen": "Oppna menyn",
-    "mobileMenuClose": "Stang menyn",
-    "direction": "Vagbeskrivning",
-    "rsvp": "RSVP",
+    "language": "Språk",
+    "mobileMenuOpen": "Öppna meny",
+    "mobileMenuClose": "Stäng meny",
+    "direction": "Vägbeskrivning",
+    "rsvp": "OSA",
     "nav": {
       "ourWedding": "VÅRT BRÖLLOP",
-      "accommodationFood": "ÖVERNATTNING OCH MAT",
+      "accommodationFood": "BOENDE & MAT",
       "registration": "ANMÄLAN",
       "travel": "RESA",
       "program": "PROGRAM",
@@ -17,224 +17,82 @@
     }
   },
   "footer": {
-    "message": "En varm och glad fest i Sverige.",
-    "signature": "Med karlek, Emilie & Loic"
+    "message": "En varm och glädjefylld fest i Sverige.",
+    "signature": "Med kärlek, Emilie & Loic"
   },
   "ourWeddingPage": {
-    "title": "Vart Brollop",
-    "subtitle": "Vi ar glada att fira denna stund med er och samla all praktisk information pa ett stalle.",
-    "heroEyebrow": "Var historia",
-    "heroTitle": "Save The Date",
-    "heroInvitation": "Eftersom ni har delat vara liv och stottat var karlek vill vi bjuda in er att bevittna vart \"lyckliga i alla vara dagar\". Den 12 september kommer vi att sta framfor de personer vi alskar mest och saga \"ja\" till varandra pa Kaggeholms Slott. Er narvaro ar den finaste gava vi kan fa, och vi langtar efter att dela detta vackra nya kapitel med er.",
+    "title": "Vårt Bröllop",
+    "subtitle": "Vi är glada att få fira detta ögonblick med er och samla all praktisk information på ett ställe.",
+    "heroEyebrow": "Vår historia",
+    "heroTitle": "Spara datumet",
+    "heroInvitation": "Eftersom ni har varit en del av våra liv och stöttat vår kärlek, vill vi bjuda in er att bevittna vårt 'lyckliga i alla sina dagar'. Den 12 september kommer vi att säga ja inför våra närmaste på Kaggeholms Slott.",
     "storyCards": [
       {
-        "date": "September the 12th",
-        "title": "Dagen Vi Mottes",
+        "date": "12 september",
+        "title": "Dagen vi träffades",
         "marker": "SEP"
-      },
-      {
-        "date": "September the 12th",
-        "title": "Historien Borjade",
-        "marker": "12"
-      },
-      {
-        "date": "September the 12th",
-        "title": "Nasta Kapitel",
-        "marker": "26"
       }
     ],
     "sections": [
       {
-        "eyebrow": "Save The Date",
-        "title": "En Fest Mellan Tva Kulturer",
+        "eyebrow": "Spara datumet",
+        "title": "En fest mellan två kulturer",
         "body": [
-          "Vart brollop samlar familj och vanner fran Frankrike, Sverige och fler lander.",
-          "Den har sidan ar skapad for att gora er resa enklare och samla alla uppdateringar.",
-          "TODO: Bekrafta den slutliga inledningstexten mot originalkallan."
-        ]
-      },
-      {
-        "eyebrow": "Plats",
-        "title": "Var Vi Kommer Att Ses",
-        "body": [
-          "Firandet sker i Sverige med flera delar under en hel brollopshelg.",
-          "Exakta platsnamn och kartor kommer i separata avsnitt.",
-          "Las rese- och boendeinformationen innan ni bokar."
-        ]
-      },
-      {
-        "eyebrow": "Kansla",
-        "title": "Det Viktigaste For Oss",
-        "body": [
-          "Vi vill att helgen ska kannas varm, enkel och personlig.",
-          "Er narvaro ar den finaste presenten och vi ar tacksamma att dela detta kapitel med er."
+          "Vårt bröllop samlar familj och vänner från Frankrike, Sverige och andra länder.",
+          "Vi har skapat denna webbplats för att göra resan enklare."
         ]
       }
     ]
   },
   "accommodationFoodPage": {
-    "title": "Overnattning Och Mat",
-    "subtitle": "All information om overnattning och maltider under helgen.",
+    "title": "Boende & Mat",
+    "subtitle": "All information om boende och måltider under helgen.",
     "sections": [
       {
         "eyebrow": "Information",
-        "title": "Allman Information",
+        "title": "Allmän information",
         "body": [
-          "For gaster som vill forlana firandet kommer det att vara mojligt att overnatta pa slottet.",
-          "Det kommer ocksa att vara mojligt att boka maltider kopplade till vistelsen. Dessa bokas och betalas direkt av varje gast.",
-          "Mer information om priser, bokningar och tider kommer senare.",
-          "Om ni redan nu vet att ni ar intresserade av boende pa plats, meddela oss garna sa att vi kan planera pa basta satt."
-        ]
-      },
-      {
-        "eyebrow": "Paket",
-        "title": "Paket Och Priser",
-        "body": [
-          "Overnattning och maltider organiseras inom ramen for brollopet men betalas av varje gast.",
-          "Fredag - Lordag",
-          "En overnattning med middag pa fredagen och brunch pa lordagen.",
-          "Pris: cirka 1 000 SEK per person",
-          "Lordag - Sondag",
-          "En overnattning med frukostbuffe pa sondagen.",
-          "Pris: cirka 1 000 SEK per person",
-          "Fredag - Sondag",
-          "Tva overnattningar med middag pa fredagen, brunch pa lordagen och frukostbuffe pa sondagen.",
-          "Pris: cirka 1 800 SEK per person"
-        ]
-      },
-      {
-        "eyebrow": "Planering",
-        "title": "En Helg Tillsammans",
-        "body": [
-          "Vi hoppas att manga av er valjer att stanna och dela hela denna festhelg med oss."
+          "Det är möjligt att övernatta på slottet.",
+          "Måltider bokas och betalas av varje gäst."
         ]
       }
     ]
   },
   "registrationPage": {
-    "title": "Anmalan",
-    "subtitle": "Bekrafta din narvaro via vart Google-formular.",
-    "comingSoonTitle": "Bekrafta Din Narvaro",
-    "comingSoonLine1": "For att anmala dig, fyll i Google-formularet genom att klicka pa knappen nedan.",
-    "comingSoonLine2": "Formularet oppnas i en ny flik och tar bara nagra minuter att fylla i.",
-    "formButtonLabel": "RSVP - Registrera dig"
+    "title": "Anmälan",
+    "subtitle": "Bekräfta din närvaro via vårt Google-formulär.",
+    "formButtonLabel": "OSA - Registrera"
   },
   "travelPage": {
     "title": "Resa",
-    "subtitle": "Hur ni enklast tar er till Kaggeholm Slott.",
+    "subtitle": "Hur du tar dig till Kaggeholms Slott.",
     "sections": [
       {
         "eyebrow": "Transport",
-        "title": "Resa Med Flyg",
+        "title": "Flyg",
         "body": [
-          "For resenarer som kommer fran utlandet ar den narmaste flygplatsen Bromma, cirka 2 timmar fran slottet. Ta sedan buss 176/177 mot Ekero Tappstrom och byt buss i Ekero Centrum for att komma till Kaggeholm Slott.",
-          "Fran Arlanda till slottet rekommenderar vi att ta bussen fran Arlanda Terminal 5 till Brommaplan och sedan byta till buss 309 till Kaggeholm Slott."
-        ]
-      },
-      {
-        "eyebrow": "Transport",
-        "title": "Resa Med Bil, Tag Eller Buss",
-        "body": [
-          "For er som reser med bil finns parkering nara slottet. En farja gar mellan Fittja och Ekero.",
-          "For er som reser kollektivt finns buss 309 fran Brommaplan eller Ekero Centrum till Kaggeholm Slott."
-        ]
-      },
-      {
-        "eyebrow": "Transport",
-        "title": "Resa Med Tunnelbana",
-        "body": [
-          "For er som reser med tunnelbana, ta tunnelbanan fran T-centralen till Brommaplan och byt till buss 176 till Bromma Tappstrom. Ga av i Ekero Centrum och ta sedan buss 309 mot Kaggeholm Slott."
+          "Närmaste flygplats är Bromma.",
+          "Från Arlanda rekommenderas buss och sedan byte till buss 309."
         ]
       }
     ]
   },
   "programPage": {
     "title": "Program",
-    "subtitle": "Programmet for brollopsdagen.",
-    "leadTitle": "Brollopsprogram",
-    "leadLines": [
-      "Har ar dagens viktigaste stunder sa att vi kan fira tillsammans.",
-      "Vi rekommenderar att ni kommer lite tidigare sa att ni kan njuta av ceremonin i lugn och ro."
-    ],
+    "subtitle": "Dagens schema.",
     "timeline": [
-      { "time": "15.30", "label": "Ceremoni" },
-      { "time": "16.00", "label": "Cocktail" },
-      { "time": "16.15", "label": "Brudparets skal" },
-      { "time": "17.30", "label": "Middag" },
-      { "time": "19.15", "label": "Brollopstarta" },
-      { "time": "19.40", "label": "Forsta dansen" },
-      { "time": "Fran 19.45", "label": "Fest" }
-    ],
-    "closingLine": "Tiderna ar preliminara och kan justeras nagot."
-  },
-  "faqPage": {
-    "title": "Fragor Och Svar",
-    "subtitle": "Alla praktiska svar samlade pa ett och samma stalle.",
-    "items": [
-      {
-        "question": "Var kommer ceremonin och middagen att hallas?",
-        "answer": [
-          "Ceremonin och middagen kommer att hallas pa samma plats, pa slottet."
-        ]
-      },
-      {
-        "question": "Ar barn valkomna pa brollopet?",
-        "answer": [
-          "Sjalklart ar barn valkomna att fira med oss!",
-          "Vi vore tacksamma om ni kan ha uppsikt over era barn under hela dagen och kvallen."
-        ]
-      },
-      {
-        "question": "Jag vill halla ett tal. Hur gor jag?",
-        "answer": [
-          "Meddela var talansvariga, Dalia, eller var toastmaster, X, om du vill tala.",
-          "Vi rekommenderar cirka 5 minuter per tal.",
-          "Dalia: 070XXXXX"
-        ]
-      },
-      {
-        "question": "Finns det ett kopcentrum i narheten om jag behover kopa nagot?",
-        "answer": [
-          "Tyvarr behover man aka till centrum i Ekero, men det finns en liten bistro nara slottet."
-        ]
-      },
-      {
-        "question": "Finns det en kladkod?",
-        "answer": [
-          "Vi onskar elegant kladsel till brollopet, men det viktigaste ar att ni kanner er bekvama och far njuta fullt ut av dagen med oss.",
-          "Glom inte att ta med en jacka om det skulle regna, eftersom ceremonin ar utomhus."
-        ]
-      },
-      {
-        "question": "Nar ska man osa?",
-        "answer": [
-          "Senast den 12 juli.",
-          "Ni hittar formularret i avsnittet \"Registration\"."
-        ]
-      },
-      {
-        "question": "Jag har bokat en overnattning, vad ska jag ta med?",
-        "answer": [
-          "Sangklader, handdukar och ett hygienkit ingar i bokningen.",
-          "Toalett och dusch finns i slottet, men delas med andra gaster.",
-          "Ni kan ta med pyjamas, tofflor, tvål, schampo och liknande."
-        ]
-      },
-      {
-        "question": "Har ni nagra speciella onskemal kring presenter?",
-        "answer": [
-          "Er narvaro pa vart brollop ar den finaste present vi kan fa.",
-          "Om ni vill ge oss nagot uppskattar vi ett bidrag till var brollopsresa."
-        ]
-      }
+      { "label": "Ceremoni" },
+      { "label": "Middag" },
+      { "label": "Fest" }
     ]
   },
+  "faqPage": {
+    "title": "Frågor & Svar",
+    "subtitle": "Praktisk information.",
+    "items": []
+  },
   "rsvpPage": {
-    "title": "RSVP",
-    "subtitle": "Det fullstandiga registreringsformularet ar inte anslutet annu.",
-    "cardTitle": "RSVP Oppnar Snart",
-    "line1": "Tack for ert talamod medan vi slutfors den externa registreringsprocessen.",
-    "line2": "Denna sida ar tills vidare en platshallare och RSVP-knappen ar medvetet synlig.",
-    "line3": "Ni far en uppdatering sa fort registreringen oppnar."
+    "title": "OSA",
+    "subtitle": "Formuläret är inte klart än."
   }
 }

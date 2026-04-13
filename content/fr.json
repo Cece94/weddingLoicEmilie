@@ -5,11 +5,11 @@
     "language": "Langue",
     "mobileMenuOpen": "Ouvrir le menu",
     "mobileMenuClose": "Fermer le menu",
-    "direction": "Direction",
+    "direction": "Itinéraire",
     "rsvp": "RSVP",
     "nav": {
       "ourWedding": "NOTRE MARIAGE",
-      "accommodationFood": "HÉBERGEMENT ET REPAS",
+      "accommodationFood": "HÉBERGEMENT & REPAS",
       "registration": "INSCRIPTION",
       "travel": "VOYAGE",
       "program": "PROGRAMME",
@@ -22,91 +22,92 @@
   },
   "ourWeddingPage": {
     "title": "Notre Mariage",
-    "subtitle": "Nous sommes heureux de partager ce moment avec vous et de réunir toutes les informations pratiques au même endroit.",
+    "subtitle": "Nous sommes heureux de célébrer ce moment avec vous et de partager toutes les informations pratiques au même endroit.",
     "heroEyebrow": "Notre histoire",
-    "heroTitle": "Save The Date",
-    "heroInvitation": "Parce que vous partagez nos vies et soutenez notre amour, nous vous invitons a etre les temoins de notre \"ils vecurent heureux\". Le 12 septembre, nous nous tiendrons devant les personnes que nous aimons le plus pour nous dire \"oui\" a Kaggeholms Slott. Votre presence est le plus beau cadeau que nous puissions recevoir, et nous avons hate de partager ce nouveau chapitre avec vous.",
+    "heroTitle": "Réservez la date",
+    "heroInvitation": "Parce que vous avez partagé nos vies et soutenu notre amour, nous vous invitons à être témoins de notre 'ils vécurent heureux'. Le 12 septembre, nous serons entourés de nos proches pour dire 'oui' au Kaggeholms Slott. Votre présence est le plus beau des cadeaux, et nous avons hâte de partager ce nouveau chapitre avec vous.",
     "storyCards": [
       {
-        "date": "September the 12th",
-        "title": "Le Jour De Notre Rencontre",
+        "date": "12 septembre",
+        "title": "Le jour de notre rencontre",
         "marker": "SEP"
       },
       {
-        "date": "September the 12th",
-        "title": "Le Debut De L'Histoire",
+        "date": "12 septembre",
+        "title": "Le début de notre histoire",
         "marker": "12"
       },
       {
-        "date": "September the 12th",
-        "title": "Le Prochain Voyage",
+        "date": "12 septembre",
+        "title": "Le prochain chapitre",
         "marker": "26"
       }
     ],
     "sections": [
       {
-        "eyebrow": "Save The Date",
-        "title": "Une Célébration Entre Deux Cultures",
+        "eyebrow": "Réservez la date",
+        "title": "Une célébration entre deux cultures",
         "body": [
-          "Notre mariage réunit famille et amis de France, de Suède et d'ailleurs.",
-          "Ce site a été conçu pour faciliter votre voyage et centraliser toutes les mises à jour.",
-          "TODO: Valider la formulation d'ouverture finale avec la copie source d'origine."
+          "Notre mariage réunit famille et amis de France, de Suède et d’ailleurs.",
+          "Nous avons conçu ce site pour faciliter votre voyage et centraliser toutes les informations."
         ]
       },
       {
         "eyebrow": "Lieu",
-        "title": "Où Nous Allons Nous Retrouver",
+        "title": "Où nous retrouver",
         "body": [
-          "La célébration se déroule en Suède, avec des temps forts répartis sur un week-end complet.",
-          "Les noms exacts des lieux et les plans seront détaillés dans les sections dédiées.",
-          "Merci de consulter les informations voyage et hébergement avant de réserver."
+          "La célébration aura lieu en Suède sur tout un week-end de mariage.",
+          "Les lieux exacts et cartes sont indiqués dans les sections dédiées ci-dessous.",
+          "Merci de consulter les informations de voyage et d’hébergement avant de réserver.",
+          "Adresse : Kaggeholms slott, 178 54 Ekerö"
         ]
       },
       {
         "eyebrow": "Esprit",
-        "title": "Ce Qui Compte Le Plus Pour Nous",
+        "title": "Ce qui compte le plus pour nous",
         "body": [
-          "Nous souhaitons un week-end chaleureux, simple et sincère.",
-          "Votre présence est notre plus beau cadeau, et nous sommes touchés de vivre ce chapitre avec vous."
+          "Nous souhaitons un week-end simple, chaleureux et profondément humain.",
+          "Votre présence est le plus beau des cadeaux et nous sommes reconnaissants de partager ce moment avec vous."
         ]
       }
     ]
   },
   "accommodationFoodPage": {
-    "title": "Hébergement Et Repas",
-    "subtitle": "Toutes les informations liées à l'hébergement et aux repas pendant le week-end.",
+    "title": "Hébergement & Repas",
+    "subtitle": "Toutes les informations concernant l’hébergement et les repas du week-end.",
     "sections": [
       {
-        "eyebrow": "Informations",
-        "title": "Informations Générales",
+        "eyebrow": "Information",
+        "title": "Informations générales",
         "body": [
-          "Pour celles et ceux qui souhaitent prolonger les festivités, il sera possible de passer la nuit au château.",
-          "Il sera également possible de réserver des repas en lien avec votre séjour. Ceux-ci seront également réservés et payés directement par chaque invité.",
-          "Plus d’informations concernant les prix, les réservations et les horaires seront communiquées ultérieurement.",
-          "Si vous savez déjà que vous seriez intéressé(e) par un hébergement sur place, n’hésitez pas à nous en informer afin que nous puissions organiser cela au mieux."
+          "Pour les invités souhaitant prolonger la fête, il sera possible de dormir au château.",
+          "Les repas seront liés à votre séjour et réservés/payés directement par chaque invité.",
+          "Si vous êtes intéressé par un hébergement sur place, merci de nous en informer."
         ]
       },
       {
         "eyebrow": "Formules",
-        "title": "Formules Et Prix",
+        "title": "Formules et prix",
         "body": [
-          "L’hébergement et les repas seront organisés dans le cadre du mariage mais seront à la charge de chaque invité.",
-          "Vendredi - samedi",
-          "Nuitée avec dîner le vendredi et brunch le samedi.",
-          "Prix : environ 1 000 SEK par personne",
-          "Samedi - dimanche",
-          "Nuitée avec buffet de petit-déjeuner le dimanche.",
-          "Prix : environ 1 000 SEK par personne",
-          "Vendredi - dimanche",
-          "Deux nuitées avec dîner le vendredi, brunch le samedi et buffet de petit-déjeuner le dimanche.",
-          "Prix : environ 1 800 SEK par personne"
+          "L’hébergement et les repas sont organisés dans le cadre du mariage mais payés par chaque invité.",
+          "Vendredi - Samedi",
+          "Une nuit avec dîner du vendredi et brunch du samedi.",
+          "Prix : environ 1 000 SEK par adulte / 600 SEK par enfant / 0 SEK sans repas",
+          "Samedi - Dimanche",
+          "Une nuit avec petit-déjeuner buffet du dimanche.",
+          "Prix : environ 1 000 SEK par adulte / 200 SEK par enfant / 0 SEK sans repas",
+          "Vendredi - Dimanche",
+          "Deux nuits avec dîner vendredi, brunch samedi et petit-déjeuner dimanche.",
+          "Prix : environ 1 800 SEK par adulte / 800 SEK par enfant / 0 SEK sans repas",
+          "Les prix enfants peuvent évoluer, informations à venir.",
+          "Paiement sur place à l’arrivée. En cas d’arrivée tardive, merci de nous prévenir."
         ]
       },
       {
         "eyebrow": "Organisation",
-        "title": "Un Week-End Ensemble",
+        "title": "Un week-end complet ensemble",
         "body": [
-          "Nous espérons que beaucoup d'entre vous choisiront de rester afin de partager tout ce week-end de célébration avec nous."
+          "Nous espérons que beaucoup d’entre vous resteront pour partager tout le week-end avec nous."
         ]
       }
     ]
@@ -114,127 +115,77 @@
   "registrationPage": {
     "title": "Inscription",
     "subtitle": "Merci de confirmer votre présence via notre formulaire Google.",
-    "comingSoonTitle": "Confirmez Votre Présence",
-    "comingSoonLine1": "Pour vous inscrire, merci de remplir le Google Form en cliquant sur le bouton ci-dessous.",
-    "comingSoonLine2": "Le formulaire s'ouvre dans un nouvel onglet et prend seulement quelques minutes à compléter.",
-    "formButtonLabel": "RSVP - S'inscrire"
+    "comingSoonTitle": "Confirmez votre présence",
+    "comingSoonLine1": "Pour vous inscrire, veuillez remplir le formulaire Google en cliquant ci-dessous.",
+    "comingSoonLine2": "Le formulaire s’ouvre dans un nouvel onglet et prend seulement quelques minutes.",
+    "formButtonLabel": "RSVP - S’inscrire"
   },
   "travelPage": {
     "title": "Voyage",
-    "subtitle": "Comment rejoindre le château de Kaggeholm facilement.",
+    "subtitle": "Comment rejoindre facilement le château de Kaggeholm.",
     "sections": [
       {
         "eyebrow": "Transport",
-        "title": "Voyager En Avion",
+        "title": "Voyager en avion",
         "body": [
-          "Pour les voyageurs venant de l'étranger, l'aéroport le plus proche est celui de Bromma, à environ 2 heures du château. Prenez ensuite le bus 176/177 en direction d'Ekerö Tappström, puis changez de bus à Ekerö Centrum pour rejoindre le château de Kaggeholm.",
-          "Depuis Arlanda jusqu'au château, il est recommandé de prendre le bus Arlanda Terminal 5 jusqu'au métro Brommaplan et de changer avec le bus 309 jusqu'au château de Kaggeholm."
+          "Pour les voyageurs venant de l’étranger, l’aéroport le plus proche est Bromma.",
+          "Depuis Arlanda, nous recommandons de prendre un bus jusqu’à Brommaplan puis le bus 309."
         ]
       },
       {
         "eyebrow": "Transport",
-        "title": "Voyager En Voiture, En Train Ou En Bus",
+        "title": "Voiture, train ou bus",
         "body": [
-          "Pour ceux qui voyagent en voiture, un parking est disponible près du château. Un ferry relie Fittja à Ekerö.",
-          "Pour ceux d'entre vous qui voyagent en transports en commun, il y a le bus 309 de Brommaplan ou Ekerö Centrum à Kaggeholm Slott."
+          "Parking disponible près du château. Un ferry relie également Fittja à Ekerö.",
+          "Le bus 309 dessert Kaggeholm depuis Brommaplan ou Ekerö Centrum."
         ]
       },
       {
         "eyebrow": "Transport",
-        "title": "Voyager En Métro",
+        "title": "Métro",
         "body": [
-          "Pour ceux d'entre vous qui voyagent en métro, prenez le métro de T-central à Brommaplan et changez pour le bus 176 jusqu'à Bromma Tappström, puis descendez à Ekerö Centrum et prenez le bus 309 en direction du château de Kaggeholm."
+          "Prenez le métro jusqu’à Brommaplan puis le bus 176/309 jusqu’à Kaggeholm."
         ]
       }
     ]
   },
   "programPage": {
     "title": "Programme",
-    "subtitle": "Le déroulé de la journée du mariage.",
-    "leadTitle": "Programme Du Mariage",
+    "subtitle": "Le déroulement de la journée.",
+    "leadTitle": "Programme du mariage",
     "leadLines": [
-      "Voici les grands moments de la journée pour célébrer ensemble.",
-      "Nous vous recommandons d'arriver un peu en avance pour profiter pleinement de la cérémonie."
+      "Voici les moments clés de la journée.",
+      "Nous vous recommandons d’arriver un peu en avance."
     ],
     "timeline": [
-      { "time": "15h30", "label": "Cérémonie" },
-      { "time": "16h00", "label": "Cocktail" },
-      { "time": "16h15", "label": "Toast des mariés" },
-      { "time": "17h30", "label": "Dîner" },
-      { "time": "19h15", "label": "Gâteau de mariage" },
-      { "time": "19h40", "label": "Première danse" },
-      { "time": "Dès 19h45", "label": "Soirée" }
+      { "label": "Cérémonie" },
+      { "label": "Cocktail" },
+      { "label": "Discours des mariés" },
+      { "label": "Dîner" },
+      { "label": "Gâteau" },
+      { "label": "Première danse" },
+      { "label": "Soirée" }
     ],
-    "closingLine": "Les horaires sont donnés à titre indicatif et peuvent légèrement évoluer."
+    "closingLine": "Les horaires seront communiqués prochainement."
   },
   "faqPage": {
-    "title": "Questions Et Réponses",
-    "subtitle": "Toutes les réponses pratiques au même endroit.",
+    "title": "Questions & Réponses",
+    "subtitle": "Toutes les informations pratiques au même endroit.",
     "items": [
       {
-        "question": "Où se dérouleront la cérémonie et le dîner ?",
+        "question": "Où ont lieu la cérémonie et le dîner ?",
         "answer": [
-          "La cérémonie et le dîner se dérouleront au même endroit, au château."
-        ]
-      },
-      {
-        "question": "Les enfants sont-ils les bienvenus au mariage ?",
-        "answer": [
-          "Bien sûr, les enfants sont les bienvenus pour célébrer avec nous !",
-          "Nous vous serions reconnaissants de bien vouloir veiller sur vos enfants tout au long de la journée et de la soirée."
-        ]
-      },
-      {
-        "question": "Je souhaite prendre la parole. Comment faire ?",
-        "answer": [
-          "Veuillez informer notre responsable des discours, Dalia, ou notre maître des discours, X, si vous souhaitez prendre la parole.",
-          "Nous recommandons environ 5 minutes par discours.",
-          "Dalia : 070XXXXX"
-        ]
-      },
-      {
-        "question": "Y a-t-il un centre commercial à proximité si j'ai besoin d'acheter quelque chose ?",
-        "answer": [
-          "Malheureusement, il faut aller au centre d'Ekerö, mais il y a un petit bistro près du château."
-        ]
-      },
-      {
-        "question": "Y a-t-il un code vestimentaire ?",
-        "answer": [
-          "Nous souhaiterions une tenue élégante pour le mariage, mais le plus important est que vous vous sentiez à l'aise et que vous profitiez pleinement de cette journée avec nous.",
-          "N'oubliez pas d'apporter une veste en cas de pluie, car la cérémonie se déroule en extérieur."
-        ]
-      },
-      {
-        "question": "Quand faut-il confirmer sa présence ?",
-        "answer": [
-          "Au plus tard le 12 juillet.",
-          "Vous trouverez le formulaire dans la section « Registration »."
-        ]
-      },
-      {
-        "question": "J'ai réservé une nuitée, que dois-je apporter ?",
-        "answer": [
-          "Le linge de lit, les serviettes et un kit d'hygiène sont fournis et inclus dans la réservation.",
-          "Les toilettes et la douche se trouvent dans le château, mais sont partagées avec les autres clients.",
-          "Vous pouvez apporter votre pyjama, vos chaussons, votre savon, votre shampoing, etc."
-        ]
-      },
-      {
-        "question": "Avez-vous des souhaits particuliers concernant les cadeaux ?",
-        "answer": [
-          "Votre présence à notre mariage est le plus beau cadeau que nous puissions recevoir.",
-          "Si vous souhaitez nous offrir quelque chose, nous apprécierions une contribution à notre voyage de noces."
+          "La cérémonie et le dîner auront lieu au château - Kaggeholms slott."
         ]
       }
     ]
   },
   "rsvpPage": {
     "title": "RSVP",
-    "subtitle": "Le formulaire d'inscription complet n'est pas encore connecté.",
-    "cardTitle": "Ouverture RSVP Bientôt",
-    "line1": "Merci pour votre patience pendant la finalisation du flux d'inscription externe.",
-    "line2": "Pour le moment, cette page reste un espace temporaire et le bouton RSVP reste visible par choix.",
-    "line3": "Vous recevrez une mise à jour dès l'ouverture de l'inscription."
+    "subtitle": "Le formulaire complet n’est pas encore connecté.",
+    "cardTitle": "Ouverture prochaine",
+    "line1": "Merci pour votre patience.",
+    "line2": "Cette page est temporaire.",
+    "line3": "Vous serez informé dès l’ouverture."
   }
 }
