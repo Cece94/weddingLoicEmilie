@@ -21,25 +21,53 @@
     "signature": "Med kärlek, Emilie & Loic"
   },
   "ourWeddingPage": {
-    "title": "Vårt Bröllop",
-    "subtitle": "Vi är glada att få fira detta ögonblick med er och samla all praktisk information på ett ställe.",
+    "title": "Vårt bröllop",
+    "subtitle": "Vi är glada att få fira detta ögonblick med er och dela all praktisk information på ett ställe.",
     "heroEyebrow": "Vår historia",
     "heroTitle": "Spara datumet",
-    "heroInvitation": "Eftersom ni har varit en del av våra liv och stöttat vår kärlek, vill vi bjuda in er att bevittna vårt 'lyckliga i alla sina dagar'. Den 12 september kommer vi att säga ja inför våra närmaste på Kaggeholms Slott.",
+    "heroInvitation": "Eftersom ni har varit en del av våra liv och stöttat vår kärlek, vill vi bjuda in er att bevittna vårt 'lyckliga i alla sina dagar'. Den 12 september kommer vi att stå framför våra närmaste och säga 'ja' på Kaggeholms Slott. Er närvaro är den största gåvan vi kan få, och vi ser fram emot att dela detta nya kapitel med er.",
     "storyCards": [
       {
         "date": "12 september",
         "title": "Dagen vi träffades",
         "marker": "SEP"
+      },
+      {
+        "date": "12 september",
+        "title": "Historien börjar",
+        "marker": "12"
+      },
+      {
+        "date": "12 september",
+        "title": "Nästa resa",
+        "marker": "26"
       }
     ],
     "sections": [
       {
         "eyebrow": "Spara datumet",
-        "title": "En fest mellan två kulturer",
+        "title": "En fest byggd på två kulturer",
         "body": [
-          "Vårt bröllop samlar familj och vänner från Frankrike, Sverige och andra länder.",
-          "Vi har skapat denna webbplats för att göra resan enklare."
+          "Vårt bröllop samlar familj och vänner från Frankrike, Sverige och andra delar av världen.",
+          "Vi har skapat denna webbplats för att göra er resa enklare och samla all information tydligt."
+        ]
+      },
+      {
+        "eyebrow": "Plats",
+        "title": "Var vi möts",
+        "body": [
+          "Firandet äger rum i Sverige under en hel bröllopshelg.",
+          "Exakta platser och kartor finns i de dedikerade avsnitten nedan.",
+          "Vänligen läs igenom rese- och boendeinformationen innan ni bokar.",
+          "Adress: Kaggeholms slott, 178 54 Ekerö"
+        ]
+      },
+      {
+        "eyebrow": "Känsla",
+        "title": "Det som betyder mest för oss",
+        "body": [
+          "Vi vill att helgen ska vara varm, enkel och genuin.",
+          "Er närvaro är den största gåvan och vi är tacksamma att få dela detta kapitel med er."
         ]
       }
     ]
@@ -52,47 +80,170 @@
         "eyebrow": "Information",
         "title": "Allmän information",
         "body": [
-          "Det är möjligt att övernatta på slottet.",
-          "Måltider bokas och betalas av varje gäst."
+          "För gäster som vill fortsätta firandet finns möjlighet att övernatta på slottet.",
+          "Måltider kommer att kopplas till er vistelse och bokas samt betalas direkt av varje gäst.",
+          "Om ni redan vet att ni är intresserade av boende på plats, vänligen meddela oss så att vi kan organisera detta så smidigt som möjligt."
+        ]
+      },
+      {
+        "eyebrow": "Paket",
+        "title": "Paket och priser",
+        "body": [
+          "Boende och måltider organiseras som en del av bröllopet men betalas av varje gäst.",
+          "Fredag - Lördag",
+          "En natt inklusive middag på fredag och brunch på lördag.",
+          "Pris: cirka 1 000 SEK per person / 600 SEK per barn / 0 SEK för barn utan matbokning",
+          "Lördag - Söndag",
+          "En natt inklusive frukostbuffé på söndag.",
+          "Pris: cirka 1 000 SEK per person / 200 SEK per barn / 0 SEK för barn utan matbokning",
+          "Fredag - Söndag",
+          "Två nätter inklusive middag på fredag, brunch på lördag och frukostbuffé på söndag.",
+          "Pris: cirka 1 800 SEK per person / 800 SEK per barn / 0 SEK för barn utan matbokning",
+          "Barnpriser kan komma att uppdateras, mer information kommer.",
+          "Betalning sker på plats vid ankomst. Om ni anländer sent, vänligen meddela oss via kontaktuppgifterna i formuläret eller El.wedding9.12@gmail.com"
+        ]
+      },
+      {
+        "eyebrow": "Planering",
+        "title": "En hel helg tillsammans",
+        "body": [
+          "Vi hoppas att många av er väljer att stanna och dela hela denna bröllopshelg med oss."
         ]
       }
     ]
   },
   "registrationPage": {
     "title": "Anmälan",
-    "subtitle": "Bekräfta din närvaro via vårt Google-formulär.",
+    "subtitle": "Vänligen bekräfta er närvaro via vårt Google-formulär.",
+    "comingSoonTitle": "Bekräfta er närvaro",
+    "comingSoonLine1": "För att registrera er, fyll i Google-formuläret via knappen nedan.",
+    "comingSoonLine2": "Formuläret öppnas i en ny flik och tar bara några minuter att fylla i.",
     "formButtonLabel": "OSA - Registrera"
   },
   "travelPage": {
     "title": "Resa",
-    "subtitle": "Hur du tar dig till Kaggeholms Slott.",
+    "subtitle": "Hur du enkelt tar dig till Kaggeholms Slott.",
     "sections": [
       {
         "eyebrow": "Transport",
-        "title": "Flyg",
+        "title": "Resa med flyg",
         "body": [
-          "Närmaste flygplats är Bromma.",
-          "Från Arlanda rekommenderas buss och sedan byte till buss 309."
+          "För gäster som reser från utlandet är den närmaste flygplatsen Bromma, cirka 2 timmar från slottet. Ta sedan buss 176/177 mot Ekerö Tappström och byt vid Ekerö centrum för att nå Kaggeholms Slott.",
+          "Från Arlanda till slottet rekommenderar vi att ta buss från Terminal 5 till Brommaplan, och sedan byta till buss 309 mot Kaggeholms Slott."
+        ]
+      },
+      {
+        "eyebrow": "Transport",
+        "title": "Resa med bil, tåg eller buss",
+        "body": [
+          "För er som reser med bil finns parkering nära slottet. En färja går även mellan Fittja och Ekerö https://www.trafikverket.se/resa-och-trafik/farjetrafik/ekeroleden/.",
+          "För kollektivtrafik går buss 309 från Brommaplan eller Ekerö centrum till Kaggeholms Slott."
+        ]
+      },
+      {
+        "eyebrow": "Transport",
+        "title": "Resa med tunnelbana",
+        "body": [
+          "Ta tunnelbanan till Brommaplan och byt till buss 176 till Bromma Tappström, gå av vid Ekerö centrum och ta buss 309 mot Kaggeholms Slott."
         ]
       }
     ]
   },
   "programPage": {
     "title": "Program",
-    "subtitle": "Dagens schema.",
+    "subtitle": "Dagens upplägg.",
+    "leadTitle": "Bröllopsprogram",
+    "leadLines": [
+      "Här är dagens viktigaste moment som vi firar tillsammans.",
+      "Vi rekommenderar att ni kommer lite tidigare så att ni kan njuta av ceremonin fullt ut."
+    ],
     "timeline": [
       { "label": "Ceremoni" },
+      { "label": "Mingel" },
+      { "label": "Brudparets skål" },
       { "label": "Middag" },
-      { "label": "Fest" }
-    ]
+      { "label": "Bröllopstårta" },
+      { "label": "Första dansen" },
+      { "label": "Kvällsfest" }
+    ],
+    "closingLine": "Tider meddelas snart."
   },
   "faqPage": {
-    "title": "Frågor & Svar",
-    "subtitle": "Praktisk information.",
-    "items": []
+    "title": "Frågor och svar",
+    "subtitle": "Alla praktiska svar samlade på ett ställe.",
+    "items": [
+      {
+        "question": "Var äger ceremonin och middagen rum?",
+        "answer": [
+          "Ceremonin och middagen äger rum på samma plats, på slottet - Kaggeholms slott, 178 54 Ekerö."
+        ]
+      },
+      {
+        "question": "Är barn välkomna på bröllopet?",
+        "answer": [
+          "Självklart är barn välkomna att fira med oss!",
+          "Vi ber er vänligen att hålla uppsikt över era barn under dagen och kvällen."
+        ]
+      },
+      {
+        "question": "Jag vill hålla ett tal. Hur gör jag?",
+        "answer": [
+          "Kontakta vår talansvariga Dalia eller vår toastmaster om ni vill tala.",
+          "Vi rekommenderar cirka 5 minuter per tal.",
+          "Dalia (EN): +46 704249821",
+          "Vincent (FR-EN): +46 760829285"
+        ]
+      },
+      {
+        "question": "Finns det ett shoppingcenter i närheten?",
+        "answer": [
+          "Tyvärr behöver du åka till centrala Ekerö (11 km, cirka 30 minuter med buss 309), men det finns en liten bistro nära slottet."
+        ]
+      },
+      {
+        "question": "Finns det en klädkod?",
+        "answer": [
+          "Vi uppskattar elegant klädsel, men viktigast är att ni känner er bekväma och kan njuta av dagen.",
+          "Ta gärna med en jacka vid regn, då ceremonin hålls utomhus."
+        ]
+      },
+      {
+        "question": "När ska jag bekräfta min närvaro?",
+        "answer": [
+          "Senast den 12 juli.",
+          "Formuläret finns i sektionen \"Anmälan\"."
+        ]
+      },
+      {
+        "question": "Jag har bokat övernattning, vad ska jag ta med?",
+        "answer": [
+          "Sänglinne, handdukar och hygienartiklar ingår.",
+          "Toaletter och duschar finns i slottet och delas med andra gäster.",
+          "Ta gärna med pyjamas, tofflor, schampo etc."
+        ]
+      },
+      {
+        "question": "Har ni några önskemål kring presenter?",
+        "answer": [
+          "Er närvaro är den största gåvan.",
+          "Om ni vill ge något uppskattar vi ett bidrag till vår bröllopsresa."
+        ]
+      },
+      {
+        "question": "Kontakt",
+        "answer": [
+          "Toastmasters: Dalia (EN): +46 704249821, Vincent (FR-EN): +46 760829285",
+          "E-post: El.wedding9.12@gmail.com"
+        ]
+      }
+    ]
   },
   "rsvpPage": {
     "title": "OSA",
-    "subtitle": "Formuläret är inte klart än."
+    "subtitle": "Det fullständiga formuläret är ännu inte kopplat.",
+    "cardTitle": "OSA öppnar snart",
+    "line1": "Tack för ert tålamod medan vi färdigställer registreringen.",
+    "line2": "Denna sida är tills vidare en platshållare.",
+    "line3": "Ni får information så snart anmälan öppnar."
   }
 }
