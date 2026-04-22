@@ -24,7 +24,7 @@
     "title": "Notre mariage",
     "subtitle": "Nous sommes heureux de célébrer ce moment avec vous et de partager toutes les informations pratiques en un seul endroit.",
     "heroEyebrow": "Notre histoire",
-    "heroTitle": "Réservez la date",
+    "heroTitle": "Save The Date",
     "heroInvitation": "Parce que vous avez partagé nos vies et soutenu notre amour, nous vous invitons à être témoins de notre « ils vécurent heureux ». Le 12 septembre, nous nous tiendrons devant nos proches pour dire « oui » au Kaggeholms Slott. Votre présence est le plus beau des cadeaux que nous puissions recevoir, et nous avons hâte de partager ce nouveau chapitre avec vous.",
     "storyCards": [
       {
@@ -158,13 +158,27 @@
       "Nous vous recommandons d’arriver un peu en avance afin de profiter pleinement de la cérémonie."
     ],
     "timeline": [
-      { "label": "Cérémonie" },
-      { "label": "Cocktail" },
-      { "label": "Toast des mariés" },
-      { "label": "Dîner" },
-      { "label": "Gâteau de mariage" },
-      { "label": "Première danse" },
-      { "label": "Soirée" }
+      {
+        "label": "Cérémonie"
+      },
+      {
+        "label": "Cocktail"
+      },
+      {
+        "label": "Toast des mariés"
+      },
+      {
+        "label": "Dîner"
+      },
+      {
+        "label": "Gâteau de mariage"
+      },
+      {
+        "label": "Première danse"
+      },
+      {
+        "label": "Soirée"
+      }
     ],
     "closingLine": "Les horaires seront communiqués prochainement."
   },
