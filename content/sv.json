@@ -24,7 +24,7 @@
     "title": "Vårt bröllop",
     "subtitle": "Vi är glada att få fira detta ögonblick med er och dela all praktisk information på ett ställe.",
     "heroEyebrow": "Vår historia",
-    "heroTitle": "Spara datumet",
+    "heroTitle": "Save The Date",
     "heroInvitation": "Eftersom ni har varit en del av våra liv och stöttat vår kärlek, vill vi bjuda in er att bevittna vårt 'lyckliga i alla sina dagar'. Den 12 september kommer vi att stå framför våra närmaste och säga 'ja' på Kaggeholms Slott. Er närvaro är den största gåvan vi kan få, och vi ser fram emot att dela detta nya kapitel med er.",
     "storyCards": [
       {
@@ -158,13 +158,27 @@
       "Vi rekommenderar att ni kommer lite tidigare så att ni kan njuta av ceremonin fullt ut."
     ],
     "timeline": [
-      { "label": "Ceremoni" },
-      { "label": "Mingel" },
-      { "label": "Brudparets skål" },
-      { "label": "Middag" },
-      { "label": "Bröllopstårta" },
-      { "label": "Första dansen" },
-      { "label": "Kvällsfest" }
+      {
+        "label": "Ceremoni"
+      },
+      {
+        "label": "Mingel"
+      },
+      {
+        "label": "Brudparets skål"
+      },
+      {
+        "label": "Middag"
+      },
+      {
+        "label": "Bröllopstårta"
+      },
+      {
+        "label": "Första dansen"
+      },
+      {
+        "label": "Kvällsfest"
+      }
     ],
     "closingLine": "Tider meddelas snart."
   },

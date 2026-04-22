@@ -1,10 +1,11 @@
-import { getTranslations } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 import Link from "next/link";
 import { FadeIn } from "@/components/ui/fade-in";
-import { RSVP_FORM_URL } from "@/lib/external-links";
+import { getRsvpFormUrl } from "@/lib/external-links";
 
 export default async function RegistrationPage() {
   const t = await getTranslations("registrationPage");
+  const locale = await getLocale();
 
   return (
     <FadeIn>
@@ -23,7 +24,7 @@ export default async function RegistrationPage() {
           {t("comingSoonLine2")}
         </p>
         <Link
-          href={RSVP_FORM_URL}
+          href={getRsvpFormUrl(locale)}
           target="_blank"
           rel="noreferrer"
           className="mt-8 inline-flex min-h-11 items-center justify-center rounded-full border border-accent bg-accent px-6 text-sm font-semibold uppercase tracking-[0.16em] text-background"

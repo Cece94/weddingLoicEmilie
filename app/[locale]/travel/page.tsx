@@ -6,6 +6,34 @@ type StructuredSection = {
   body: string[];
 };
 
+function renderLineWithLinks(line: string) {
+  const urlPattern = /(https?:\/\/[^\s]+)/g;
+
+  return line.split(urlPattern).map((part, index) => {
+    if (!part.match(/^https?:\/\//)) {
+      return part;
+    }
+
+    // Keep trailing punctuation outside of the clickable link.
+    const trimmedUrl = part.replace(/[),.;!?]+$/g, "");
+    const trailingChars = part.slice(trimmedUrl.length);
+
+    return (
+      <span key={`${trimmedUrl}-${index}`}>
+        <a
+          href={trimmedUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline decoration-1 underline-offset-2 transition hover:opacity-80"
+        >
+          {trimmedUrl}
+        </a>
+        {trailingChars}
+      </span>
+    );
+  });
+}
+
 export default async function TravelPage() {
   const t = await getTranslations("travelPage");
   const sections = t.raw("sections") as StructuredSection[];
@@ -24,14 +52,16 @@ export default async function TravelPage() {
         <section className="md:col-span-5">
           <h2 className="mb-5 text-3xl leading-tight md:text-4xl">{byAir?.title}</h2>
           <div className="space-y-4 text-base leading-7 text-foreground/90">
-            {byAir?.body.map((line, index) => <p key={`air-${index}`}>{line}</p>)}
+            {byAir?.body.map((line, index) => <p key={`air-${index}`}>{renderLineWithLinks(line)}</p>)}
           </div>
         </section>
 
         <section className="md:col-span-7">
           <h2 className="mb-5 text-3xl leading-tight md:text-4xl">{byRoadRailBus?.title}</h2>
           <div className="space-y-4 text-base leading-7 text-foreground/90">
-            {byRoadRailBus?.body.map((line, index) => <p key={`road-${index}`}>{line}</p>)}
+            {byRoadRailBus?.body.map((line, index) => (
+              <p key={`road-${index}`}>{renderLineWithLinks(line)}</p>
+            ))}
           </div>
         </section>
       </div>
@@ -39,7 +69,9 @@ export default async function TravelPage() {
       <section className="mt-10 border-t border-line pt-8 md:mt-12 md:pt-10">
         <h2 className="mb-4 text-3xl leading-tight md:text-4xl">{publicTransport?.title}</h2>
         <div className="space-y-4 text-base leading-7 text-foreground/90">
-          {publicTransport?.body.map((line, index) => <p key={`public-${index}`}>{line}</p>)}
+          {publicTransport?.body.map((line, index) => (
+            <p key={`public-${index}`}>{renderLineWithLinks(line)}</p>
+          ))}
         </div>
       </section>
     </FadeIn>
