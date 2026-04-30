@@ -73,41 +73,43 @@
     ]
   },
   "accommodationFoodPage": {
-    "title": "Boende & Mat",
+    "title": "Boende & Måltider",
     "subtitle": "All information om boende och måltider under helgen.",
     "sections": [
       {
         "eyebrow": "Information",
         "title": "Allmän information",
         "body": [
-          "För gäster som vill fortsätta firandet finns möjlighet att övernatta på slottet.",
-          "Måltider kommer att kopplas till er vistelse och bokas samt betalas direkt av varje gäst.",
-          "Om ni redan vet att ni är intresserade av boende på plats, vänligen meddela oss så att vi kan organisera detta så smidigt som möjligt."
+          "Din närvaro på bröllopet kräver ingen betalning: själva anmälan är helt kostnadsfri.",
+          "För gäster som vill förlänga firandet finns möjlighet att bo på plats, men detta är helt valfritt.",
+          "Paket med boende och måltider kommer att erbjudas för dem som vill stanna över. Dessa bokas och betalas direkt av varje gäst.",
+          "Om du tror att du kan vara intresserad av att bo på plats, vänligen meddela oss så att vi kan planera på bästa sätt."
         ]
       },
       {
         "eyebrow": "Paket",
         "title": "Paket och priser",
         "body": [
-          "Boende och måltider organiseras som en del av bröllopet men betalas av varje gäst.",
+          "Paketen nedan gäller endast för gäster som vill bo på plats. De är valfria och oberoende av ditt deltagande i bröllopet.",
           "Fredag - Lördag",
           "En natt inklusive middag på fredag och brunch på lördag.",
-          "Pris: cirka 1 000 SEK per person / 600 SEK per barn / 0 SEK för barn utan matbokning",
+          "Pris: cirka 1 000 SEK per person / 600 SEK per barn / 0 SEK för barn utan måltidsbokning",
           "Lördag - Söndag",
           "En natt inklusive frukostbuffé på söndag.",
-          "Pris: cirka 1 000 SEK per person / 200 SEK per barn / 0 SEK för barn utan matbokning",
+          "Pris: cirka 1 000 SEK per person / 200 SEK per barn / 0 SEK för barn utan måltidsbokning",
           "Fredag - Söndag",
           "Två nätter inklusive middag på fredag, brunch på lördag och frukostbuffé på söndag.",
-          "Pris: cirka 1 800 SEK per person / 800 SEK per barn / 0 SEK för barn utan matbokning",
-          "Barnpriser kan komma att uppdateras, mer information kommer.",
-          "Betalning sker på plats vid ankomst. Om ni anländer sent, vänligen meddela oss via kontaktuppgifterna i formuläret eller El.wedding9.12@gmail.com"
+          "Pris: cirka 1 800 SEK per person / 800 SEK per barn / 0 SEK för barn utan måltidsbokning",
+          "Priser för barn kan komma att uppdateras senare, mer information kommer.",
+          "Betalning gäller endast för valda paket och sker på plats vid ankomst. Vid sen ankomst, vänligen meddela oss via nödnumren i formuläret eller på El.wedding9.12@gmail.com"
         ]
       },
       {
-        "eyebrow": "Planering",
+        "eyebrow": "Organisation",
         "title": "En hel helg tillsammans",
         "body": [
-          "Vi hoppas att många av er väljer att stanna och dela hela denna bröllopshelg med oss."
+          "Självklart kan du välja att endast delta under bröllopsdagen utan att boka boende.",
+          "För er som vill ser vi fram emot att få dela hela helgen av firande tillsammans med er på plats."
         ]
       }
     ]
@@ -129,7 +131,7 @@
         "title": "Resa med flyg",
         "body": [
           "För gäster som reser från utlandet är den närmaste flygplatsen Bromma, cirka 2 timmar från slottet. Ta sedan buss 176/177 mot Ekerö Tappström och byt vid Ekerö centrum för att nå Kaggeholms Slott.",
-          "Från Arlanda till slottet rekommenderar vi att ta buss från Terminal 5 till Brommaplan, och sedan byta till buss 309 mot Kaggeholms Slott."
+          "Från Arlanda till slottet rekommenderar vi att ta buss från Terminal 5 till Brommaplan, och sedan byta till buss 309 mot Kaggeholms Slott. Arlanda erbjuder fler transportmöjligheter än Bromma."
         ]
       },
       {

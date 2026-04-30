@@ -73,41 +73,43 @@
     ]
   },
   "accommodationFoodPage": {
-    "title": "Accommodation & Food",
-    "subtitle": "All information related to accommodation and meals during the weekend.",
+    "title": "Accommodation & Meals",
+    "subtitle": "All the information regarding accommodation and meals during the weekend.",
     "sections": [
       {
         "eyebrow": "Information",
         "title": "General Information",
         "body": [
-          "For guests who would like to continue the festivities, it will be possible to stay overnight at the castle.",
-          "Meals will also be linked to your stay. These will also be reserved and paid directly by each guest.",
-          "If you already know that you would be interested in accommodation on site, please let us know so we can organize this as smoothly as possible."
+          "Your attendance at the wedding does not require any payment: registration alone is completely free.",
+          "For guests who wish to extend the celebration, it will be possible to stay at the venue, but this is entirely optional.",
+          "Packages including accommodation and meals will be available for those who wish to stay on site. These services will be booked and paid for directly by each guest.",
+          "If you think you may be interested in staying on site, please let us know so we can organize everything as smoothly as possible."
         ]
       },
       {
         "eyebrow": "Packages",
-        "title": "Packages And Prices",
+        "title": "Packages and Pricing",
         "body": [
-          "Accommodation and meals will be organized as part of the wedding but will be paid by each guest.",
+          "The packages below are only for guests who wish to stay on site. They are optional and independent from your participation in the wedding.",
           "Friday - Saturday",
           "One night including Friday dinner and Saturday brunch.",
-          "Price: approximately 1,000 SEK per person / 600 SEK per kid / 0 SEK for kids with no food bookings",
+          "Price: approximately 1,000 SEK per person / 600 SEK per child / 0 SEK for children without meal reservations",
           "Saturday - Sunday",
           "One night including Sunday breakfast buffet.",
-          "Price: approximately 1,000 SEK per person / 200 SEK per kid / 0 SEK for kids with no food bookings",
+          "Price: approximately 1,000 SEK per person / 200 SEK per child / 0 SEK for children without meal reservations",
           "Friday - Sunday",
-          "Two nights including Friday dinner, Saturday brunch and Sunday breakfast buffet.",
-          "Price: approximately 1,800 SEK per person / 800 SEK per kid / 0 SEK for kids with no food bookings",
-          "Kids price may be updated later, information to come.",
-          "Payments will be made on site, upon arrival. If you arrive late let us know by reaching out to the emergency numbers on the form or El.wedding9.12@gmail.com "
+          "Two nights including Friday dinner, Saturday brunch, and Sunday breakfast buffet.",
+          "Price: approximately 1,800 SEK per person / 800 SEK per child / 0 SEK for children without meal reservations",
+          "Prices for children may be updated later, more information to come.",
+          "Payments will only apply to the selected packages and will be made on site upon arrival. In case of late arrival, please inform us using the emergency numbers in the form or at El.wedding9.12@gmail.com"
         ]
       },
       {
-        "eyebrow": "Planning",
+        "eyebrow": "Organization",
         "title": "A Full Weekend Together",
         "body": [
-          "We hope many of you will choose to stay and share this full weekend of celebration with us."
+          "Of course, you are free to attend only the wedding day without booking accommodation.",
+          "For those who wish, we would be delighted to share the entire weekend of celebration with you on site."
         ]
       }
     ]
@@ -129,7 +131,7 @@
         "title": "Travel By Air",
         "body": [
           "For travelers coming from abroad, the closest airport is Bromma, around 2 hours from the castle. Then take bus 176/177 toward Ekero Tappstrom, and change at Ekero Centrum to reach Kaggeholm Castle.",
-          "From Arlanda to the castle, we recommend taking the bus from Arlanda Terminal 5 to Brommaplan metro station, then changing to bus 309 to Kaggeholm Castle."
+          "From Arlanda to the castle, we recommend taking the bus from Arlanda Terminal 5 to Brommaplan metro station, then changing to bus 309 to Kaggeholm Castle. Arlanda has better connections than Bromma."
         ]
       },
       {
